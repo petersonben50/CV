@@ -85,28 +85,46 @@ Vivar, C., **Peterson, B.D.**, van Praag, H., 2016. "Running rewires the neurona
 
 **Invited talks**
 
+Identification of Mercury Methylating Organisms along a Trophic Gradient. **Greater Everglades Ecosystem Restoration Conference**. Coral Springs, Florida. *April 2019*
+
 
 **Contributed talks**
+
+Novel hgcA+ organisms dominate mercury-methylating community in water column of sulfate-enriched lake. **International Conference on Mercury as a Global Pollutant**. Krakow, Poland. *September 2020*
+
+Mercury-methylating organisms in Lake Mendota. **American Water Resources Association Wisconsin Section Annual Meeting**. Delavan, WI. *March 2019*
 
 
 **Internal Seminars**
 
+Identification and activity of mercury-methylating microbes in Lake Mendota. **NTL-LTER Early Career Scientist Meeting**, University of Wisconsin - Madison. *April 2020*
 
+Identification and activity of mercury-methylating microbes in Lake Mendota. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *March 2020*
+
+Mercury-methylating organisms in Lake Mendota. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2019*
+
+Mercury-methylating organisms in Lake Mendota. **Center for Limnology Weekly Seminar**. University of Wisconsin - Madison. *May 2019*
+
+Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2018*  
+
+Meta-omics, microbes, and freshwater biogeochemistry! Oh My! **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2017*
 
 # Poster Presentations
 
-**Peterson, B.D.**, Ogorek, J., Tate, M., DeWild, J., McMahon, K.D. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. Water at Wisconsin Poster Session, UW-Madison (2017)
+Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **International Society for Microbial Ecology Conference**. Leipzig, Germany. *August 2018*
 
-**Peterson, B.D.**, Ogorek, J., Tate, M., DeWild, J., McMahon, K.D. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. Raper Symposium, UW-Madison (2017)
+Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **SETAC Young Environmental Scientist Meeting**. University of Wisconsin - Madison. *March 2018*
 
-**Peterson, B.D.**, Ogorek, J., Tate, M., DeWild, J., McMahon, K.D. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. International Conference on Mercury as a Global Pollutant, Providence, RI (2017)
+Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **International Conference on Mercury as a Global Pollutant**. Providence, RI. *July 2017*
+ 
+Spatial distribution of ultramicrobacteria along Lake Erie. **IAGLR's Conference on Great Lakes Research**. Detroit, MI. *May 2017*
 
-**Peterson, B.D.**, Oyserman, B., McMahon, K.D. Spatial distribution of ultramicrobacteria along Lake Erie. IAGLR's Conference on Great Lakes Research, Detroit, MI (2017)
-
-**Peterson, B.D.**, McMahon, K.D. Vertical distribution of microbial communities during late stratification in a eutrophic, dimictic lake. International Society for Microbial Ecology conference, Montreal, Canada (2016)
+Vertical distribution of microbial communities during late stratification in a eutrophic, dimictic lake. **International Society for Microbial Ecology Conference**. Montreal, Canada *September 2016*
 
 
 # Teaching and Mentoring
+
+ComBEE presentations
 
 **Undergraduate Mentor in McMahon Lab** \hfill 2015-present  
  - Anna Grace Schmidt: 
@@ -117,6 +135,10 @@ Chemistry Department, SUNY-Geneseo
 
 
 # Service
+
+Water at UW grad rep
+
+Organizer, SETAC YES meeting
 
 **Postbac IRTA Representative** \hfill 2013-2015  
 National Institute on Aging
