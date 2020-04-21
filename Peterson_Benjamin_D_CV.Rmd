@@ -46,23 +46,45 @@ Honors Minor (Edgar Fellows Honors Program)
 
 # Employment and Research Experience
 
+**Graduate Research Assistant** \hfill 2015-current  
+*McMahon Lab – Departments of Bacteriology and Civil & Environmental Engineering*  
+Ecophysiology of mercury-methylating organisms in freshwater ecosystems
+
+- Dissertation project focuses on combining meta-omics techniques with functional assays and biogeochemical measurements to understand how microbes link biogeochemical cycling to the production of toxic methylmercury in freshwater ecosystems
+- Serve as microbial ecology specialist on two large-scale U.S. Geology Survey projects studying mercury cycling in impacted sites (Hells Canyon Reservoir in Idaho and the Florida Everglades)
+- Maintain the North Temperate Lakes Microbial Observatory time series
+
 **Animal Biologist** (Contracter with Kelly's Government Services) \hfill 2014-2015  
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
+Impacts of running on initial integration of adult-born hippocampal neurons
+
+- Designed and led a study to characterize initial integration of new adult-born neurons into hippocampal networks
+- Used fluorescent proteins delivered by injection of modified viruses into hippocampus to trace developing neural networks with two-photon microscopy
+- Maintained experimental mouse colony
 
 **Postbaccalaureate IRTA Research Fellow** \hfill 2012-2014  
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
+Tracing impacts of exercise on neuronal integration of adult-born hippocampal neurons
 
+- Performed stereotaxic surgeries, perfusions, and immunohistochemical staining
+- Used two‐photon microscope to analyze tracings and expression of neurotransmitter receptors and chloride transporters
+- Conducted animal behavior experiments
+- Developed protocol to trace initial stages of neuronal integration by adult-born hippocampal cells
 
 **Undergraduate Research Assistant** \hfill 2009-2012  
 *State University of New York at Geneseo: Biology Department* \hfill PI: Dr. George Briggs  
 Characterization of a Novel Specifier Protein in the Glucosinolate-Myrosinase Pathway in Brassica rapa
 
-
+- Identified novel protein in the glucosinolate‐myrosinase pathway in *B. rapa* and cloned it into E. coli for characterization
+- Designed a gas chromatography/mass spectroscopy protocol to identify the effect of the putative specifier protein on the products of the glucosinolate‐myrosinase pathway
+- Analyzed isothiocyanate production of B. rapa under conditions of stress
 
 **Summer Undergraduate Research Assistant** \hfill Summer 2011  
 *University of Buffalo: Department of Biological Sciences* \hfill PI: Dr. Denise Ferkey  
 Impact of G-protein coupled signaling receptors on chemosensation of quinine in C. elegans
 
+- Used behavioral assays to identify TRPV channel necessary for chemosensation of quinine
+- Used SNP mapping to identify location of TRPV channel gene
 
 
 # Peer-reviewed publications
@@ -70,60 +92,60 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 \* indicates co-first authorship  
 \*\* indicates undergraduate student I mentored
 
-Mohammad, H., Marchisella, F., Ortega-Martinez, S., Hollos, P., Eerola, K., Komulainen, E., Kulesskaya, N., Freemantle, E., Fagerholm, V., Savontous, E., Rauvala, H., **Peterson, B.D.**, van Praag, H., Coffey, E.T., 2018. "JNK1 controls adult hippocampal neurogenesis and imposes cell-autonomous control of anxiety behaviour from the neurogenic niche." Mol Psychiatry 23, 362–374. https://doi.org/10.1038/mp.2016.203
+1. Mohammad, H., Marchisella, F., Ortega-Martinez, S., Hollos, P., Eerola, K., Komulainen, E., Kulesskaya, N., Freemantle, E., Fagerholm, V., Savontous, E., Rauvala, H., **Peterson, B.D.**, van Praag, H., Coffey, E.T., 2018. "JNK1 controls adult hippocampal neurogenesis and imposes cell-autonomous control of anxiety behaviour from the neurogenic niche." Mol Psychiatry 23, 362–374. https://doi.org/10.1038/mp.2016.203
 
-Sah, N., **\*Peterson, B.D.**, Lubejko, S.T., Vivar, C., van Praag, H., 2017. "Running reorganizes the circuitry of one-week-old adult-born hippocampal neurons." Sci Rep 7, 10903. https://doi.org/10.1038/s41598-017-11268-z
+1. Sah, N., **\*Peterson, B.D.**, Lubejko, S.T., Vivar, C., van Praag, H., 2017. "Running reorganizes the circuitry of one-week-old adult-born hippocampal neurons." Sci Rep 7, 10903. https://doi.org/10.1038/s41598-017-11268-z
 
-Vivar, C., **Peterson, B.D.**, van Praag, H., 2016. "Running rewires the neuronal network of adult-born dentate granule cells." NeuroImage 131, 29–41. https://doi.org/10.1016/j.neuroimage.2015.11.031
+1. Vivar, C., **Peterson, B.D.**, van Praag, H., 2016. "Running rewires the neuronal network of adult-born dentate granule cells." NeuroImage 131, 29–41. https://doi.org/10.1016/j.neuroimage.2015.11.031
 
 
 # Pre-prints and submissions
 
-**Peterson, B.D.**, McDaniel, E.A., Schmidt, A.G., Lepak, R.F., Tran, P.Q., Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
+1. **Peterson, B.D.**, McDaniel, E.A., Schmidt, A.G., Lepak, R.F., Tran, P.Q., Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
 
-McDaniel, E.A., **Peterson, B.D.**, Stevens, S.L.R., Tran, P.Q., Anantharaman, K., McMahon, K.D., 2020. "Expanded Phylogenetic Diversity and Metabolic Flexibility of Microbial Mercury Methylation". bioRxiv. https://doi.org/10.1101/2020.01.16.909358 *Submitted*
+1. McDaniel, E.A., **Peterson, B.D.**, Stevens, S.L.R., Tran, P.Q., Anantharaman, K., McMahon, K.D., 2020. "Expanded Phylogenetic Diversity and Metabolic Flexibility of Microbial Mercury Methylation". bioRxiv. https://doi.org/10.1101/2020.01.16.909358 *Submitted*
 
 
 
 # Oral presentations
 
-**Invited talks**
+## Invited talks
 
-Identification of Mercury Methylating Organisms along a Trophic Gradient. **Greater Everglades Ecosystem Restoration Conference**. Coral Springs, Florida. *April 2019*
-
-
-**Contributed talks**
-
-Novel hgcA+ organisms dominate mercury-methylating community in water column of sulfate-enriched lake. **International Conference on Mercury as a Global Pollutant**. Krakow, Poland. *September 2020*
-
-Mercury-methylating organisms in Lake Mendota. **American Water Resources Association Wisconsin Section Annual Meeting**. Delavan, WI. *March 2019*
+1. Identification of Mercury Methylating Organisms along a Trophic Gradient. **Greater Everglades Ecosystem Restoration Conference**. Coral Springs, Florida. *April 2019*
 
 
-**Internal Seminars**
+## Contributed talks
 
-Identification and activity of mercury-methylating microbes in Lake Mendota. **NTL-LTER Early Career Scientist Meeting**, University of Wisconsin - Madison. *April 2020*
+1. Novel hgcA+ organisms dominate mercury-methylating community in water column of sulfate-enriched lake. **International Conference on Mercury as a Global Pollutant**. Krakow, Poland. *September 2020*
 
-Identification and activity of mercury-methylating microbes in Lake Mendota. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *March 2020*
+1. Mercury-methylating organisms in Lake Mendota. **American Water Resources Association Wisconsin Section Annual Meeting**. Delavan, WI. *March 2019*
 
-Mercury-methylating organisms in Lake Mendota. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2019*
 
-Mercury-methylating organisms in Lake Mendota. **Center for Limnology Weekly Seminar**. University of Wisconsin - Madison. *May 2019*
+## Internal Seminars
 
-Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2018*  
+1. Identification and activity of mercury-methylating microbes in Lake Mendota. **NTL-LTER Early Career Scientist Meeting**, University of Wisconsin - Madison. *April 2020*
 
-Meta-omics, microbes, and freshwater biogeochemistry! Oh My! **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2017*
+1. Identification and activity of mercury-methylating microbes in Lake Mendota. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *March 2020*
+
+1. Mercury-methylating organisms in Lake Mendota. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2019*
+
+1. Mercury-methylating organisms in Lake Mendota. **Center for Limnology Weekly Seminar**. University of Wisconsin - Madison. *May 2019*
+
+1. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2018*  
+
+1. Meta-omics, microbes, and freshwater biogeochemistry! Oh My! **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2017*
 
 # Poster Presentations
 
-Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **International Society for Microbial Ecology Conference**. Leipzig, Germany. *August 2018*
+1. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **International Society for Microbial Ecology Conference**. Leipzig, Germany. *August 2018*
 
-Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **SETAC Young Environmental Scientist Meeting**. University of Wisconsin - Madison. *March 2018*
+1. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **SETAC Young Environmental Scientist Meeting**. University of Wisconsin - Madison. *March 2018*
 
-Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **International Conference on Mercury as a Global Pollutant**. Providence, RI. *July 2017*
+1. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **International Conference on Mercury as a Global Pollutant**. Providence, RI. *July 2017*
  
-Spatial distribution of ultramicrobacteria along Lake Erie. **IAGLR's Conference on Great Lakes Research**. Detroit, MI. *May 2017*
+1. Spatial distribution of ultramicrobacteria along Lake Erie. **IAGLR's Conference on Great Lakes Research**. Detroit, MI. *May 2017*
 
-Vertical distribution of microbial communities during late stratification in a eutrophic, dimictic lake. **International Society for Microbial Ecology Conference**. Montreal, Canada *September 2016*
+1. Vertical distribution of microbial communities during late stratification in a eutrophic, dimictic lake. **International Society for Microbial Ecology Conference**. Montreal, Canada *September 2016*
 
 
 # Teaching and Mentoring
@@ -131,8 +153,8 @@ Vertical distribution of microbial communities during late stratification in a e
 ComBEE presentations
 
 **Undergraduate Mentor in McMahon Lab** \hfill 2015-present  
- - Anna Grace Schmidt: 
- - North Temperate Lakes Microbial Observatory Team
+ - Anna Grace Schmidt:  
+ - North Temperate Lakes Microbial Observatory Team: Led team, including 7 undergraduates, in maintaining 20+ year time series.
 
 **Organic Chemistry Tutor and Grader** \hfill 2010-2012  
 Chemistry Department, SUNY-Geneseo
@@ -152,7 +174,10 @@ National Institute on Aging
 State University of New York at Geneseo
 
 
-# Grants and Awards
+# Grants
+
+
+# Honors
 
 NSF GRFP \hfill 2016  
 Anna Grant Birge Memorial Scholarships \hfill 2016, 2017  
