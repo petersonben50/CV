@@ -21,7 +21,7 @@ web: petersonben50.github.io/
 # keywords: microbial ecology, biogeochemistry
 
 fontfamily: mathpazo
-fontfamilyoptions: sc, osf
+# fontfamilyoptions: sc, osf
 fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
@@ -78,6 +78,10 @@ Vivar, C., **Peterson, B.D.**, van Praag, H., 2016. "Running rewires the neurona
 
 
 # Pre-prints and submissions
+
+**Peterson, B.D.**, McDaniel, E.A., Schmidt, A.G., Lepak, R.F., Tran, P.Q., Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
+
+McDaniel, E.A., **Peterson, B.D.**, Stevens, S.L.R., Tran, P.Q., Anantharaman, K., McMahon, K.D., 2020. "Expanded Phylogenetic Diversity and Metabolic Flexibility of Microbial Mercury Methylation". bioRxiv. https://doi.org/10.1101/2020.01.16.909358 *Submitted*
 
 
 
