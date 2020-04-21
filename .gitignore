@@ -1,2 +1,6 @@
 # File types
 *.log
+
+# Files
+.gitignore
+.Rhistory
