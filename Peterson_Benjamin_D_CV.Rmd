@@ -15,7 +15,7 @@ fontawesome: yes
 email: bpeterson26@wisc.edu
 phone: "+1 410 980-4660"
 # github: petersonben50
-web: petersonben50.github.io/
+# web: petersonben50.github.io/
 #updated: no
 
 # keywords: microbial ecology, biogeochemistry
@@ -52,6 +52,7 @@ Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 
 - Dissertation project focuses on combining meta-omics techniques with functional assays and biogeochemical measurements to understand how microbes link biogeochemical cycling to the production of toxic methylmercury in freshwater ecosystems
 - Serve as microbial ecology specialist on two large-scale U.S. Geology Survey projects studying mercury cycling in impacted sites (Hells Canyon Reservoir in Idaho and the Florida Everglades)
+- Collaborate with USGS Mercury Research Laboratory in Middleton, WI
 - Maintain the North Temperate Lakes Microbial Observatory time series
 
 **Animal Biologist** (Contracter with Kelly's Government Services) \hfill 2014-2015  
@@ -101,7 +102,7 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Pre-prints and submissions
 
-1. **Peterson, B.D.**, McDaniel, E.A., Schmidt, A.G., Lepak, R.F., Tran, P.Q., Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
+1. **Peterson, B.D.**, McDaniel, E.A., \*\*Schmidt, A.G., Lepak, R.F., Tran, P.Q., \*\*Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
 
 1. McDaniel, E.A., **Peterson, B.D.**, Stevens, S.L.R., Tran, P.Q., Anantharaman, K., McMahon, K.D., 2020. "Expanded Phylogenetic Diversity and Metabolic Flexibility of Microbial Mercury Methylation". bioRxiv. https://doi.org/10.1101/2020.01.16.909358 *Submitted*
 
@@ -150,40 +151,72 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Teaching and Mentoring
 
-ComBEE presentations
+**Omic's Study Group lead**: Fall 2019
 
-**Undergraduate Mentor in McMahon Lab** \hfill 2015-present  
- - Anna Grace Schmidt:  
- - North Temperate Lakes Microbial Observatory Team: Led team, including 7 undergraduates, in maintaining 20+ year time series.
+- Metagenomic Assembly study group lead
+- Phylogenetic Analysis and Tree-Thinking study group lead
 
-**Organic Chemistry Tutor and Grader** \hfill 2010-2012  
-Chemistry Department, SUNY-Geneseo
+**Volunteer Teaching Assistant: Environmental Microbiology**: Spring 2019
+
+- Assisted with curriculum development
+- Designed new course module on freshwater microbiology with emphasis on hypolimnetic anoxia. Delivered lectures for this portion
+- Graded homework
+- Provided assistance during in-class group work
+
+**Undergraduate Mentor in McMahon Lab** \hfill 2015-present
+
+- **Anna Schwendinger** - Assisting with routine mercury sampling. *Fa. 2019-current*
+- **Robert Marick** - Spatial and temporal dynamics of microbial communities along strong redox gradients in Lake Mendota. *Su. 2018-current*
+- **Anna Grace Schmidt** - Zooplankton-associated microbiome in Lake Mendota. Lead undergrad for Microbial Observatory sampling. *Su. 2017-current*
+    - ASM award
+    - Sophomore Research Fellowship Award
+- **Diana Mendez** - Impact of zebra mussel feeding on planktonic microbial community *Su-Fa 2017*
+- **Ariel Sorg** - Metagenomic characterization of methylotrophic freshwater Betaproteobacteria in Wisconsin, USA. *Su. 2017*
+- **Mykala Sobieck** - Assisted with routine mercury sampling program *Su.-Fa. 2016*
+- **North Temperate Lakes Microbial Observatory Team** - Led team of 2-4 undergraduates per year in maintaining 20+ year time series. *Su. 2017-current*
+
+**Organic Chemistry Tutor and Grader**: Chemistry Department, SUNY-Geneseo \hfill 2010-2012
+
+- Held office hours and set up private tutoring lessons
+- Helped set up curriculum and provided feedback on class progress
 
 
 # Service
 
-Water at UW grad rep
-
-Organizer, SETAC YES meeting
-
-**Postbac IRTA Representative** \hfill 2013-2015  
-National Institute on Aging
-
-
-**Geneseo Presidential Scholar** \hfill 2011-2012  
-State University of New York at Geneseo
+**Journal Reviewer**: Environmental Science and Technology, Environmental Science and Pollution Research.  
+**Water at UW Graduate Student Representative** \hfill 2018-2019  
+**SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
+    - Organized 1-day science communication workshop  
+**Postbac IRTA Representative**: National Institute on Aging \hfill 2013-2015  
+**Geneseo Presidential Scholar**: SUNY-Geneseo \hfill 2011-2012  
 
 
-# Grants
 
+# Grants, Honors, and Awards
 
-# Honors
-
-NSF GRFP \hfill 2016  
-Anna Grant Birge Memorial Scholarships \hfill 2016, 2017  
-Becker Travel Award \hfill 2016  
+Student Research Travel Grants - Conference: $1500 \hfill 2018  
+Anna Grant Birge Memorial Scholarship: $1942 \hfill 2018  
+Anna Grant Birge Memorial Scholarship: $1917 \hfill 2017  
+**NSF Graduate Research Fellowship Program** \hfill 2016-2021  
+Anna Grant Birge Memorial Scholarship: $2000 \hfill 2016  
+Becker Travel Award: $200-250 \hfill 2016, 2018, 2020  
 Phi Beta Kappa \hfill 2012  
 Ulmer-Jackson Biochemistry Award \hfill 2012  
-Goldwater Scholar \hfill 2011  
+**Goldwater Scholar** \hfill 2011  
 CRC Award to the Best Overall Student in Introductory Chemistry \hfill 2009  
 Geneseo Dean’s List \hfill 7 semesters
+
+# Professional Development
+
+DELTA Teaching in the College Classroom \hfill Spring 2019  
+Anvi’o Workshop, University of Chicago \hfill April 2017  
+Data Carpentry Workshop \hfill Fall 2016  
+DELTA Research Mentorship Training  \hfill Summer 2016  
+EDAMAME bioinformatics workshop \hfill Summer 2016  
+
+
+
+# Society Memberships
+
+Association for the Sciences of Limnology and Oceanography \hfill 2020-current  
+International Society of Microbial Ecology \hfill 2018  
