@@ -11,7 +11,7 @@ fontawesome: yes
 fontfamily: mathpazo
 fontsize: 11pt
 geometry: margin=1in
-jobtitle: Graduate Research Assistant, McMahon Lab
+jobtitle: Postdoctoral Research Assistant, McMahon Lab
 linkcolor: blue
 email: bpeterson26@wisc.edu
 phone: +1 410 980-4660
@@ -103,11 +103,6 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 1. Sah, N., **\*Peterson, B.D.**, Lubejko, S.T., Vivar, C., van Praag, H., 2017. "Running reorganizes the circuitry of one-week-old adult-born hippocampal neurons." Sci Rep 7, 10903. https://doi.org/10.1038/s41598-017-11268-z
 
 1. Vivar, C., **Peterson, B.D.**, van Praag, H., 2016. "Running rewires the neuronal network of adult-born dentate granule cells." NeuroImage 131, 29–41. https://doi.org/10.1016/j.neuroimage.2015.11.031
-
-
-# Pre-prints and submissions
-
-1. **Peterson, B.D.**, McDaniel, E.A., \*\*Schmidt, A.G., Lepak, R.F., Janssen Tran, P.Q., \*\*Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
 
 
 # Oral presentations
