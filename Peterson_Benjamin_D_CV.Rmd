@@ -1,31 +1,22 @@
 ---
+title: "CV"
+author: "Benjamin D. Peterson"
 date: "April 20, 2020"
 output:
   pdf_document:
     latex_engine: pdflatex
     template: /Users/benjaminpeterson/Documents/orderInTheKingdom/CV/svm-latex-cv-modified.tex
-geometry: margin=1in
-
-title: "CV"
-author: Benjamin D. Peterson
-
-jobtitle: "Graduate Research Assistant, McMahon Lab"
-address: "1550 Linden Dr · Room 5525 · Madison, WI 53703"
+  word_document: default
 fontawesome: yes
-email: bpeterson26@wisc.edu
-phone: "+1 410 980-4660"
-# github: petersonben50
-# web: petersonben50.github.io/
-#updated: no
-
-# keywords: microbial ecology, biogeochemistry
-
 fontfamily: mathpazo
-# fontfamilyoptions: sc, osf
 fontsize: 11pt
+geometry: margin=1in
+jobtitle: Graduate Research Assistant, McMahon Lab
 linkcolor: blue
+email: bpeterson26@wisc.edu
+phone: +1 410 980-4660
+address: 1550 Linden Dr · Room 5525 · Madison, WI 53703
 urlcolor: blue
-
 ---
 
 ```{r setup, include=FALSE}
@@ -35,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Education
 
 **University of Wisconsin - Madison** \hfill Madison, WI  
-PhD candidate in Environmental Chemistry and Technology Program,  \hfill current  
+PhD in Environmental Chemistry and Technology Program,  \hfill 2021  
 Department of Civil and Environmental Engineering
 
 
@@ -46,7 +37,15 @@ Honors Minor (Edgar Fellows Honors Program)
 
 # Employment and Research Experience
 
-**Graduate Research Assistant** \hfill 2015-current  
+**Postdoctoral Research Assistant** \hfill 2021-current
+*McMahon Lab – Departments of Bacteriology*
+Microbial links between sulfate reduction and methylmercury production in a eutrophic freshwater lake
+
+- Pair meta-omics (DNA/RNA sequencing, proteomics using mass spectrometry) techniques with mercury methylation assays to understand link between microbial sulfate reduction and methylmercury production
+- Develop interdisciplinary approach to characterizing the impact of sulfate-reduction activity on overall microbial community metabolic activity
+- Use extensive metagenomic sequencing data to characterize population and evolution of mercury-methylating gene and its potential role in microbial metabolism
+
+**Graduate Research Assistant** \hfill 2015-2021  
 *McMahon Lab – Departments of Bacteriology and Civil & Environmental Engineering*  
 Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 
@@ -93,6 +92,12 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 \* indicates co-first authorship  
 \*\* indicates undergraduate student I mentored
 
+1. Lepak, RF, Tate MT, Ogorek JM, DeWild JF, **Peterson BD**, Hurley JP, and Krabbenhoft DP. “Aqueous Elemental Mercury Production versus Mercury Inventories in the Lake Michigan Airshed: Deciphering the Spatial and Diel Controls of Mercury Gradients in Air and Water.” ACS ES&T Water, December 30, 2020, acsestwater.0c00187. https://doi.org/10.1021/acsestwater.0c00187.
+
+1. **Peterson, B.D.**, McDaniel EA, \*\*Schmidt AG, Lepak RF, Janssen SE, Tran PQ, \*\*Marick RA, et al. “Mercury Methylation Genes Identified across Diverse Anaerobic Microbial Guilds in a Eutrophic Sulfate-Enriched Lake.” Environmental Science & Technology, November 23, 2020, acs.est.0c05435. https://doi.org/10.1021/acs.est.0c05435.
+
+1. McDaniel, E.A., **Peterson, B.D.**, Stevens, S.L.R., Tran, P.Q., Anantharaman, K., McMahon, K.D., 2020. "Expanded Phylogenetic Diversity and Metabolic Flexibility of Mercury-Methylating Organisms". mSystems 5 (4),  https://doi.org/10.1128/mSystems.00299-20
+
 1. Mohammad, H., Marchisella, F., Ortega-Martinez, S., Hollos, P., Eerola, K., Komulainen, E., Kulesskaya, N., Freemantle, E., Fagerholm, V., Savontous, E., Rauvala, H., **Peterson, B.D.**, van Praag, H., Coffey, E.T., 2018. "JNK1 controls adult hippocampal neurogenesis and imposes cell-autonomous control of anxiety behaviour from the neurogenic niche." Mol Psychiatry 23, 362–374. https://doi.org/10.1038/mp.2016.203
 
 1. Sah, N., **\*Peterson, B.D.**, Lubejko, S.T., Vivar, C., van Praag, H., 2017. "Running reorganizes the circuitry of one-week-old adult-born hippocampal neurons." Sci Rep 7, 10903. https://doi.org/10.1038/s41598-017-11268-z
@@ -102,10 +107,7 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Pre-prints and submissions
 
-1. **Peterson, B.D.**, McDaniel, E.A., \*\*Schmidt, A.G., Lepak, R.F., Tran, P.Q., \*\*Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
-
-1. McDaniel, E.A., **Peterson, B.D.**, Stevens, S.L.R., Tran, P.Q., Anantharaman, K., McMahon, K.D., 2020. "Expanded Phylogenetic Diversity and Metabolic Flexibility of Microbial Mercury Methylation". bioRxiv. https://doi.org/10.1101/2020.01.16.909358 *Submitted*
-
+1. **Peterson, B.D.**, McDaniel, E.A., \*\*Schmidt, A.G., Lepak, R.F., Janssen Tran, P.Q., \*\*Marick, R.A., Ogorek, J.M., DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D., 2020. "Mercury methylation trait dispersed across diverse anaerobic microbial guilds in a eutrophic sulfate-enriched lake". bioRxiv. https://doi.org/10.1101/2020.04.01.018762
 
 
 # Oral presentations
