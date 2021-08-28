@@ -1,5 +1,8 @@
 # File types
 *.log
+*.pdf
+*.docx
 
 # Files
 .Rhistory
+.gitignore
