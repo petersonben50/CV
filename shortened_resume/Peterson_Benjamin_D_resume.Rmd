@@ -1,0 +1,60 @@
+---
+title: "Resume"
+author: "Benjamin D. Peterson"
+date: "February 8th, 2021"
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: /Users/benjaminpeterson/Documents/orderInTheKingdom/CV/svm-latex-cv-modified.tex
+  word_document: default
+fontawesome: yes
+fontfamily: mathpazo
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: Graduate Research Assistant, McMahon Lab
+linkcolor: blue
+email: bpeterson26@wisc.edu
+phone: +1 410 980-4660
+address: 1550 Linden Dr · Room 5525 · Madison, WI 53703
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Education
+
+**University of Wisconsin - Madison** \hfill Madison, WI  
+PhD candidate in Environmental Chemistry and Technology Program  \hfill current  
+Department of Civil and Environmental Engineering
+
+
+**State University of New York at Geneseo** \hfill Geneseo, NY  
+Bachelor of Science, *summa cum laude* Biochemistry \hfill 2012  
+Honors Minor (Edgar Fellows Honors Program)
+
+
+## Recent employment and Research Experience
+
+**Graduate Research Assistant** \hfill 2015-current  
+*Departments of Bacteriology and Civil & Environmental Engineering*  \hfill PI: Dr. Katherine McMahon
+Ecophysiology of mercury-methylating organisms in freshwater ecosystems
+
+**Animal Biologist** (Contracter with Kelly's Government Services) \hfill 2014-2015  
+*National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
+Impacts of running on initial integration of adult-born hippocampal neurons
+
+**Postbaccalaureate IRTA Research Fellow** \hfill 2012-2014  
+*National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
+Tracing impacts of exercise on neuronal integration of adult-born hippocampal neurons
+
+## Recent relevant publications
+
+1. **Peterson, B.D.**, McDaniel, E.A., Schmidt, A.G., Lepak, R.F., Janssen, S.E., Tran, P.Q., Marick R.A., Ogorek, J.M, DeWild, J.F., Krabbenhoft, D.P., McMahon, K.D. “Mercury Methylation Genes Identified across Diverse Anaerobic Microbial Guilds in a Eutrophic Sulfate-Enriched Lake.” Environmental Science & Technology 54, no. 24 (December 15, 2020): 15840–51. https://doi.org/10.1021/acs.est.0c05435.
+
+2. McDaniel, E.A., **Peterson, B.D.**, Stevens, S.L.R., Tran, P.Q., Anantharaman, K., McMahon, K.D. “Expanded Phylogenetic Diversity and Metabolic Flexibility of Mercury-Methylating Microorganisms.” MSystems 5, no. 4 (August 18, 2020): 1–21. https://doi.org/10.1128/mSystems.00299-20.
+
+3. Lepak, R.F., Tate, M.T., Ogorek, J.M, DeWild, J.F., **Peterson, B.D.**, Hurley, J.P., and Krabbenhoft, D.P. “Aqueous Elemental Mercury Production versus Mercury Inventories in the Lake Michigan Airshed: Deciphering the Spatial and Diel Controls of Mercury Gradients in Air and Water.” ACS ES&T Water, December 30, 2020, acsestwater.0c00187. https://doi.org/10.1021/acsestwater.0c00187.
+
+4. Gionfriddo C.M., Capo E., **Peterson B.D.**, Lin H., Jones D.S., Bravo A.G., Bertilsson, S., Moreau J.W., McMahon, K.D., Elias, D.A., Gilmour, C.C. "Hg-cycling Microorganisms in Aquatic and Terrestrial Ecosystems Database v1.01142021" (January 29, 2021) https://doi:10.25573/serc.13105370

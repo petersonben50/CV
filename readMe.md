@@ -3,20 +3,6 @@
 This is my repo for my updated CV. The template was taken from Steven V. Miller (https://github.com/svmiller/svm-r-markdown-templates).
 I just downloaded his svm-latex-cv.tex file, but didn't fork the entire branch.
 
-## Set up Git
-
-This project is going to be stored here: `/Users/benjaminpeterson/Documents/orderInTheKingdom/CV`.
-First I needed to set up git on the folder:
-
-```
-cd /Users/benjaminpeterson/Documents/orderInTheKingdom/CV
-git init
-#atom .gitignore
-git add .gitignore
-git commit -m "Added gitignore file"
-git remote add origin https://github.com/petersonben50/CV.git
-git push origin master
-```
 
 ## Set up instructions
 

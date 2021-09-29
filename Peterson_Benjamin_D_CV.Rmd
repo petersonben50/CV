@@ -37,8 +37,8 @@ Honors Minor (Edgar Fellows Honors Program)
 
 # Employment and Research Experience
 
-**Postdoctoral Research Assistant** \hfill 2021-current
-*McMahon Lab – Departments of Bacteriology*
+**Postdoctoral Research Assistant** \hfill 2021-current  
+*McMahon Lab – Departments of Bacteriology*  
 Microbial links between sulfate reduction and methylmercury production in a eutrophic freshwater lake
 
 - Pair meta-omics (DNA/RNA sequencing, proteomics using mass spectrometry) techniques with mercury methylation assays to understand link between microbial sulfate reduction and methylmercury production
@@ -107,21 +107,28 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Oral presentations
 
-## Invited talks
-
-1. Identification of Mercury Methylating Organisms along a Trophic Gradient. **Greater Everglades Ecosystem Restoration Conference**. Coral Springs, Florida. *April 2019*
-
-
 ## Contributed talks
 
-1. Novel hgcA+ organisms dominate mercury-methylating community in water column of sulfate-enriched lake. **International Conference on Mercury as a Global Pollutant**. Krakow, Poland. *September 2020*
+1. Potential role of PVC microbes in mercury methylation in freshwater lakes. **Webinar on Planctomycetes, Verrucomicrobia, and Chlamydiae**. Virtual conference. *April 2021*
+
+1. Identification of Mercury Methylating Organisms along a Trophic Gradient. **Greater Everglades Ecosystem Restoration Conference**. Virtual conference. *April 2021*
+
+1. Identification of Mercury Methylating Organisms along a Trophic Gradient in the Florida Everglades. **International Symposium on the Biogeochemistry of Wetlands Conference**. Virtual conference. *March 2021*
+
+1. Identification of Mercury Methylating Organisms along a Trophic Gradient. **Society for Environmental Toxicology and Chemistry**. Virtual conference. *November 2020*
+
+1. Novel hgcA+ organisms dominate mercury-methylating community in water column of sulfate-enriched lake. **International Conference on Mercury as a Global Pollutant**. Krakow, Poland. *September 2019*
 
 1. Mercury-methylating organisms in Lake Mendota. **American Water Resources Association Wisconsin Section Annual Meeting**. Delavan, WI. *March 2019*
 
 
 ## Internal Seminars
 
-1. Identification and activity of mercury-methylating microbes in Lake Mendota. **NTL-LTER Early Career Scientist Meeting**, University of Wisconsin - Madison. *April 2020*
+1. Investigating the microbial influence on mercury methylation in the Florida Everglades. **Center for Limnology Weekly Seminar**, University of Wisconsin - Madison, virtual presentation. *April 2021*
+
+1. Investigating the microbial influence on mercury methylation in the Florida Everglades. **Environmental Chemistry and Technology Weekly Seminar**, University of Wisconsin - Madison, virtual presentation. *February 2021*
+
+1. Identification and activity of mercury-methylating microbes in Lake Mendota. **NTL-LTER Early Career Scientist Meeting**, University of Wisconsin - Madison, virtual presentation. *April 2020*
 
 1. Identification and activity of mercury-methylating microbes in Lake Mendota. **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *March 2020*
 
@@ -153,18 +160,20 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 - Metagenomic Assembly study group lead
 - Phylogenetic Analysis and Tree-Thinking study group lead
 
-**Volunteer Teaching Assistant: Environmental Microbiology**: Spring 2019
+**Volunteer Teaching Assistant: Environmental Microbiology**: Spring 2019, Spring 2021
 
 - Assisted with curriculum development
-- Designed new course module on freshwater microbiology with emphasis on hypolimnetic anoxia. Delivered lectures for this portion
+- Designed new course module on freshwater microbiology with emphasis on hypolimnetic anoxia and impact on methylmercury production
+- Delivered lectures
 - Graded homework
 - Provided assistance during in-class group work
+- Led mock review panel through peer review of fellow classmates' research proposals for final project
 
 **Undergraduate Mentor in McMahon Lab** \hfill 2015-present
 
-- **Anna Schwendinger** - Assisting with routine mercury sampling. *Fa. 2019-current*
-- **Robert Marick** - Spatial and temporal dynamics of microbial communities along strong redox gradients in Lake Mendota. *Su. 2018-current*
-- **Anna Grace Schmidt** - Zooplankton-associated microbiome in Lake Mendota. Lead undergrad for Microbial Observatory sampling. *Su. 2017-current*
+- **Anna Schwendinger** - Assisting with routine mercury sampling. *Fa. 2019-Sp. 2020*
+- **Robert Marick** - Spatial and temporal dynamics of microbial communities along strong redox gradients in Lake Mendota. Manuscript in prep. *Su. 2018-Sp. 2020*
+- **Anna Grace Schmidt** - Zooplankton-associated microbiome in Lake Mendota. Lead undergrad for Microbial Observatory sampling. Manuscript in prep. *Su. 2017-Sp. 2020*
     - UW–Madison College of Agricultural and Life Sciences Research Award \hfill 2018
     - ASM-Undergraduate Research Fellowship \hfill 2018
     - UW-Madison Sophomore Research Fellowship Award \hfill 2018
@@ -181,10 +190,11 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Service
 
-**Journal Reviewer**: Environmental Science and Technology, Environmental Science and Pollution Research.  
+**Journal Reviewer**: Environmental Science and Technology (2), Environmental Science and Pollution Research (1), Frontiers in Microbiology (1).  
 **Water at UW Graduate Student Representative** \hfill 2018-2019  
 **SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
     - Organized 1-day science communication workshop  
+**O.N. Allan Soil and Environmental Microbiology Small Grants Review Panelist** \hfill 2018  
 **Postbac IRTA Representative**: National Institute on Aging \hfill 2013-2015  
 **Geneseo Presidential Scholar**: SUNY-Geneseo \hfill 2011-2012  
 
@@ -192,6 +202,7 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Grants, Honors, and Awards
 
+**Roland L. Girolami Fellowship Award - UW-Madison Dept. of Bacteriology** \hfill 2020  
 Student Research Travel Grants - Conference: $1500 \hfill 2018  
 Anna Grant Birge Memorial Scholarship: $1942 \hfill 2018  
 Anna Grant Birge Memorial Scholarship: $1917 \hfill 2017  
@@ -203,6 +214,8 @@ Ulmer-Jackson Biochemistry Award \hfill 2012
 **Goldwater Scholar** \hfill 2011  
 CRC Award to the Best Overall Student in Introductory Chemistry \hfill 2009  
 Geneseo Dean’s List \hfill 7 semesters
+
+Assisted writing: 
 
 # Professional Development
 
