@@ -1,7 +1,7 @@
 ---
 title: "CV"
-author: "Benjamin D. Peterson"
-date: "April 20, 2020"
+author: "Benjamin D. Peterson, Ph.D."
+date: "March 3, 2023"
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -11,11 +11,11 @@ fontawesome: yes
 fontfamily: mathpazo
 fontsize: 11pt
 geometry: margin=1in
-jobtitle: Postdoctoral Research Assistant, McMahon Lab
+jobtitle: Postdoctoral Scholar, University of California - Davis, Poulin Lab
 linkcolor: blue
-email: bpeterson26@wisc.edu
+email: bdpeterson@ucdavis.edu
 phone: +1 410 980-4660
-address: 1550 Linden Dr · Room 5525 · Madison, WI 53703
+address: 450 Bioletti Way · 4336 Meyer Hall · Davis, CA 95616
 urlcolor: blue
 ---
 
@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Education
 
 **University of Wisconsin - Madison** \hfill Madison, WI  
-PhD in Environmental Chemistry and Technology Program,  \hfill 2021  
+PhD in Environmental Chemistry and Technology Program  \hfill 2021  
 Department of Civil and Environmental Engineering
 
 
@@ -37,16 +37,30 @@ Honors Minor (Edgar Fellows Honors Program)
 
 # Employment and Research Experience
 
-**Postdoctoral Research Assistant** \hfill 2021-current  
-*McMahon Lab – Department of Bacteriology*  
-Microbial links between sulfate reduction and methylmercury production in a eutrophic freshwater lake
+**Postdoctoral Scholar** \hfill June 2022-current  
+*Poulin Lab – Department of Environmental Toxicology*  
 
-- Pair meta-omics (DNA/RNA sequencing, proteomics using mass spectrometry) techniques with mercury methylation assays to understand link between microbial sulfate reduction and methylmercury production
-- Develop interdisciplinary approach to characterizing the impact of sulfate-reduction activity on overall microbial community metabolic activity
+- Research focus: Leveraging microbial communities to understand methylmercury production in the environment
+- Adopt microbial next-generation ecophysiological methods for use with various research projects.
+- Conduct field sampling efforts in diverse ecosystems, including the Alaskan Arctic and the Florida Everglades.
+- Develop and conduct experiments in the field and laboratory.
+- Oversee, manage, and review data processing workflows for water chemistry analyses in lab. Assist in database development.
+- Mentor graduate and undergraduate students and assist them with individual research efforts.
+- Build and maintain mercury analytical equipment. Train graduate and undergraduate students on mercury analytical methods. Build and maintain other ancillary laboratory equipment.
+
+
+**Postdoctoral Research Assistant** \hfill August 2021 - May 2022  
+*McMahon Lab – Department of Bacteriology*  
+
+- Research focus: Microbial links between sulfate reduction and methylmercury production in a eutrophic freshwater lake
+- Conducted field-based experiments 
+- Paired meta-omics (DNA/RNA sequencing) techniques with mercury methylation assays to understand link between microbial sulfate reduction and methylmercury production
+- Developed interdisciplinary approach to characterizing the impact of sulfate-reduction activity on overall microbial community metabolic activity
+- Mentored first-year graduate student to continue studies developed during my PhD work.
 
 **Graduate Research Assistant** \hfill 2015-2021  
 *McMahon Lab – Departments of Bacteriology and Civil & Environmental Engineering*  
-Ecophysiology of mercury-methylating organisms in freshwater ecosystems
+Thesis: Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 
 - Dissertation project combined meta-omics techniques with functional assays and biogeochemical measurements to understand how microbes link biogeochemical cycling to the production of toxic methylmercury in freshwater ecosystems
 - Served as microbial ecology specialist on two large-scale U.S. Geology Survey projects studying mercury cycling in impacted sites (Hells Canyon Reservoir in Idaho and the Florida Everglades)
@@ -91,6 +105,10 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 \* indicates co-first authorship  
 \*\* indicates undergraduate student I mentored
 
+1. **Peterson B.D.**, Krabbenhoft, D.K., McMahon, K.D., Ogorek, J.M., Tate, M.T., Orem, W.H., Poulin, B.A., “Environmental formation of methylmercury is controlled by synergy of inorganic mercury bioavailability and microbial mercury-methylation capacity,” Environmental Microbiology, in press.
+
+1. Capo, E., **Peterson, B.D.**, Kim, M., Jones, D.S., Acinas, S.G., Amyot, M., Bertilsson, S., et al. “A Consensus Protocol for the Recovery of Mercury Methylation Genes from Metagenomes.” *Molecular Ecology Resources* 23, no. 1 (January 2023): 190–204. https://doi.org/10.1111/1755-0998.13687.
+
 1. Berg, S.M., **Peterson, B.D.**, McMahon, K.D., and Remucal, C.K., 2022. "Spatial and temporal variability of dissolved organic matter molecular composition in a stratified eutrophic lake." *Journal of Geophysical Research: Biogeosciences* 127. https://doi.org/10.1029/2021JG006550.
 
 1. Lepak, R.F., Tate, M.T., Ogorek, J.M., DeWild, J.F., **Peterson, B.D.**, Hurley, J.P., Krabbenhoft, D.P., 2020. "Aqueous elemental mercury production versus mercury inventories in the Lake Michigan airshed: Deciphering the spatial and diel controls of mercury gradients in air and water." *ACS ES&T Water* 1, 719-727. https://doi.org/10.1021/acsestwater.0c00187.
@@ -109,6 +127,8 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 # Oral presentations
 
 ## Contributed talks
+
+1. Inorganic mercury bioavailability and microbial methylation capacity constraints on in situ mercury methylation. **International Conference on Mercury as a Global Pollutant**. Virtual conference. *July 2022*
 
 1. Potential role of PVC microbes in mercury methylation in freshwater lakes. **Webinar on Planctomycetes, Verrucomicrobia, and Chlamydiae**. Virtual conference. *April 2021*
 
@@ -192,7 +212,8 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Service
 
-**Journal Reviewer**: Environmental Science and Technology (3), Environmental Science and Pollution Research (1), Frontiers in Microbiology (1).  
+**Mersorcium**: Organizing Board and Founding Member \hfill 2022-current
+**Ad hoc Journal Reviewer**: Environmental Science and Technology (6), Environmental Science and Pollution Research (1), Frontiers in Microbiology (1), Chemosphere (1), Environmental Research Letters (1), FACETS (1), Science of the Total Environment (1).  
 **Water at UW Graduate Student Representative** \hfill 2018-2019  
 **SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
     - Organized 1-day science communication workshop  
@@ -220,6 +241,7 @@ Geneseo Dean’s List \hfill 7 semesters
 
 # Professional Development
 
+Geochemist Workbench Virtual Workshop: “GWB Community Edition” \hfill February 2023  
 DELTA Teaching in the College Classroom \hfill Spring 2019  
 Anvi’o Workshop, University of Chicago \hfill April 2017  
 Data Carpentry Workshop \hfill Fall 2016  
