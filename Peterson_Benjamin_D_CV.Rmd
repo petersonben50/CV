@@ -41,12 +41,12 @@ Honors Minor (Edgar Fellows Honors Program)
 *Poulin Lab – Department of Environmental Toxicology*  
 
 - Research focus: Leveraging microbial communities to understand methylmercury production in the environment
-- Adopt microbial next-generation ecophysiological methods for use with various research projects.
+- Adopt microbial next-generation ecophysiological methods for use with research projects in Alaskan permafrost, Florida Everglades, drinking water reservoirs in California, and mine-impacted lakes in Upper Michigan.
 - Conduct field sampling efforts in diverse ecosystems, including the Alaskan Arctic and the Florida Everglades.
 - Develop and conduct experiments in the field and laboratory.
 - Oversee, manage, and review data processing workflows for water chemistry analyses in lab. Assist in database development.
 - Mentor graduate and undergraduate students and assist them with individual research efforts.
-- Build and maintain mercury analytical equipment. Train graduate and undergraduate students on mercury analytical methods. Build and maintain other ancillary laboratory equipment.
+- Build and maintain mercury analytical equipment. Train graduate and undergraduate students on mercury analytical methods. Build and maintain other laboratory equipment.
 
 
 **Postdoctoral Research Assistant** \hfill August 2021 - May 2022  
@@ -105,9 +105,9 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 \* indicates co-first authorship  
 \*\* indicates undergraduate student I mentored
 
-1. **Peterson B.D.**, Krabbenhoft, D.K., McMahon, K.D., Ogorek, J.M., Tate, M.T., Orem, W.H., Poulin, B.A., “Environmental formation of methylmercury is controlled by synergy of inorganic mercury bioavailability and microbial mercury-methylation capacity,” Environmental Microbiology, in press.
+1. **Peterson, B.D.**, Krabbenhoft, D.K., McMahon, K.D., Ogorek, J.M., Tate, M.T., Orem, W.H., Poulin, B.A., (2023). “Environmental formation of methylmercury Is controlled by synergy of inorganic mercury bioavailability and microbial mercury‐methylation capacity.” *Environmental Microbiology*, 1462–2920. https://doi.org/10.1111/1462-2920.16364.
 
-1. Capo, E., **Peterson, B.D.**, Kim, M., Jones, D.S., Acinas, S.G., Amyot, M., Bertilsson, S., et al. “A Consensus Protocol for the Recovery of Mercury Methylation Genes from Metagenomes.” *Molecular Ecology Resources* 23, no. 1 (January 2023): 190–204. https://doi.org/10.1111/1755-0998.13687.
+1. Capo, E., **Peterson, B.D.**, Kim, M., Jones, D.S., Acinas, S.G., Amyot, M., Bertilsson, S., et al. “A Consensus Protocol for the Recovery of Mercury Methylation Genes from Metagenomes.” *Molecular Ecology Resources* 23(1), 190–204. https://doi.org/10.1111/1755-0998.13687.
 
 1. Berg, S.M., **Peterson, B.D.**, McMahon, K.D., and Remucal, C.K., 2022. "Spatial and temporal variability of dissolved organic matter molecular composition in a stratified eutrophic lake." *Journal of Geophysical Research: Biogeosciences* 127. https://doi.org/10.1029/2021JG006550.
 
@@ -128,7 +128,9 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 ## Contributed talks
 
-1. Inorganic mercury bioavailability and microbial methylation capacity constraints on in situ mercury methylation. **International Conference on Mercury as a Global Pollutant**. Virtual conference. *July 2022*
+1. Microbial and Biogeochemical Controls on Mercury Methylation in the Everglades.**Greater Everglades Ecosystem Restoration Conference**. Coral Spring, FL, United States. *April 2023*
+
+1. Inorganic mercury bioavailability and microbial methylation capacity constraints on *in situ* mercury methylation. **International Conference on Mercury as a Global Pollutant**. Virtual conference. *July 2022*
 
 1. Potential role of PVC microbes in mercury methylation in freshwater lakes. **Webinar on Planctomycetes, Verrucomicrobia, and Chlamydiae**. Virtual conference. *April 2021*
 
@@ -144,6 +146,8 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 
 ## Internal Seminars
+
+1. Leveraging microbial ecology to understand the environmental cycling of mercury. **Department of Environmental Toxicology Seminar**, University of California - Davis. *June 1st, 2023*
 
 1. Investigating the microbial influence on mercury methylation in the Florida Everglades. **Center for Limnology Weekly Seminar**, University of Wisconsin - Madison, virtual presentation. *April 2021*
 
