@@ -71,33 +71,29 @@ Thesis: Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
 Impacts of running on initial integration of adult-born hippocampal neurons
 
-- Designed and led a study to characterize initial integration of new adult-born neurons into hippocampal networks
-- Used fluorescent proteins delivered by injection of modified viruses into hippocampus to trace developing neural networks with two-photon microscopy
-- Maintained experimental mouse colony
-
 **Postbaccalaureate IRTA Research Fellow** \hfill 2012-2014  
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
 Tracing impacts of exercise on neuronal integration of adult-born hippocampal neurons
-
-- Performed stereotaxic surgeries, perfusions, and immunohistochemical staining
-- Used two‐photon microscope to analyze tracings and expression of neurotransmitter receptors and chloride transporters
-- Conducted animal behavior experiments
-- Developed protocol to trace initial stages of neuronal integration by adult-born hippocampal cells
 
 **Undergraduate Research Assistant** \hfill 2009-2012  
 *State University of New York at Geneseo: Biology Department* \hfill PI: Dr. George Briggs  
 Characterization of a Novel Specifier Protein in the Glucosinolate-Myrosinase Pathway in Brassica rapa
 
-- Identified novel protein in the glucosinolate‐myrosinase pathway in *B. rapa* and cloned it into E. coli for characterization
-- Designed a gas chromatography/mass spectroscopy protocol to identify the effect of the putative specifier protein on the products of the glucosinolate‐myrosinase pathway
-- Analyzed isothiocyanate production of B. rapa under conditions of stress
-
 **Summer Undergraduate Research Assistant** \hfill Summer 2011  
 *University of Buffalo: Department of Biological Sciences* \hfill PI: Dr. Denise Ferkey  
 Impact of G-protein coupled signaling receptors on chemosensation of quinine in C. elegans
 
-- Used behavioral assays to identify TRPV channel necessary for chemosensation of quinine
-- Used SNP mapping to identify location of TRPV channel gene
+
+
+# Grants and Funding
+
+DOE Joint Genome Institute New Investigator Community Science Project. \hfill 2023  
+*Influence of labile permafrost dissolved organic matter on mercury-methylating organisms*. \hfill PI: Peterson
+
+Roland L. Girolami Fellowship Award - UW-Madison Dept. of Bacteriology \hfill 2020  
+
+National Science Foundation Graduate Research Fellowship Program \hfill 2016-2021  
+
 
 
 # Peer-reviewed publications
@@ -105,7 +101,9 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 \* indicates co-first authorship  
 \*\* indicates undergraduate student I mentored
 
-1. **Peterson, B.D.**, Krabbenhoft, D.K., McMahon, K.D., Ogorek, J.M., Tate, M.T., Orem, W.H., Poulin, B.A., (2023). “Environmental formation of methylmercury Is controlled by synergy of inorganic mercury bioavailability and microbial mercury‐methylation capacity.” *Environmental Microbiology*, 1462–2920. https://doi.org/10.1111/1462-2920.16364.
+1. **Peterson, B.D.**,  Poulin, B.A., Krabbenhoft, D.K., Tate, M.T., Baldwin, A.K., Naymik, J., Gastelecutto, N., McMahon, K.D. (2023). “Metabolically diverse microorganisms mediate methylmercury formation under nitrate-reducing conditions in a dynamic hydroelectric reservoir.” *The ISME Journal*. https://doi.org/10.1038/s41396-023-01482-1
+
+1. **Peterson, B.D.**, Krabbenhoft, D.K., McMahon, K.D., Ogorek, J.M., Tate, M.T., Orem, W.H., Poulin, B.A., (2023). “Environmental formation of methylmercury is controlled by synergy of inorganic mercury bioavailability and microbial mercury‐methylation capacity.” *Environmental Microbiology*, 1462–2920. https://doi.org/10.1111/1462-2920.16364.
 
 1. Capo, E., **Peterson, B.D.**, Kim, M., Jones, D.S., Acinas, S.G., Amyot, M., Bertilsson, S., et al. “A Consensus Protocol for the Recovery of Mercury Methylation Genes from Metagenomes.” *Molecular Ecology Resources* 23(1), 190–204. https://doi.org/10.1111/1755-0998.13687.
 
@@ -122,6 +120,8 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 1. Sah, N., **\*Peterson, B.D.**, Lubejko, S.T., Vivar, C., van Praag, H., 2017. "Running reorganizes the circuitry of one-week-old adult-born hippocampal neurons." *Scientific Reports* 7, 10903. https://doi.org/10.1038/s41598-017-11268-z
 
 1. Vivar, C., **Peterson, B.D.**, van Praag, H., 2016. "Running rewires the neuronal network of adult-born dentate granule cells." *NeuroImage* 131, 29–41. https://doi.org/10.1016/j.neuroimage.2015.11.031
+
+
 
 
 # Oral presentations
@@ -181,19 +181,17 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 # Teaching and Mentoring
 
+**Course contributor**
+
+- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023
+- Volunteer Teaching Assistant: Environmental Microbiology: \hfill Spring 2021
+- Volunteer Teaching Assistant: Environmental Microbiology: \hfill Spring 2019
+
+
 **Omic's Study Group lead**: Fall 2019
 
 - Metagenomic Assembly study group lead
 - Phylogenetic Analysis and Tree-Thinking study group lead
-
-**Volunteer Teaching Assistant: Environmental Microbiology**: Spring 2019, Spring 2021
-
-- Assisted with curriculum development
-- Designed new course module on freshwater microbiology with emphasis on hypolimnetic anoxia and impact on methylmercury production
-- Delivered lectures
-- Graded homework
-- Provided assistance during in-class group work
-- Led mock review panel through peer review of fellow classmates' research proposals for final project
 
 **Undergraduate Mentor in McMahon Lab** \hfill 2015-present
 
@@ -227,13 +225,11 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 
 
 
-# Grants, Honors, and Awards
+# Awards and Honors
 
-**Roland L. Girolami Fellowship Award - UW-Madison Dept. of Bacteriology** \hfill 2020  
 Student Research Travel Grants - Conference: $1500 \hfill 2018  
 Anna Grant Birge Memorial Scholarship: $1942 \hfill 2018  
 Anna Grant Birge Memorial Scholarship: $1917 \hfill 2017  
-**NSF Graduate Research Fellowship Program** \hfill 2016-2021  
 Anna Grant Birge Memorial Scholarship: $2000 \hfill 2016  
 Becker Travel Award: $200-250 \hfill 2016, 2018, 2020  
 Phi Beta Kappa \hfill 2012  
