@@ -16,6 +16,7 @@ linkcolor: blue
 email: bdpeterson@ucdavis.edu
 phone: +1 410 980-4660
 address: 450 Bioletti Way · 4336 Meyer Hall · Davis, CA 95616
+web: benjamindavidpeterson.com
 urlcolor: blue
 ---
 
@@ -216,7 +217,7 @@ Anna Grant Birge Memorial Scholarship: $1917 \hfill 2017
 Anna Grant Birge Memorial Scholarship: $2000 \hfill 2016  
 Phi Beta Kappa \hfill 2012  
 Ulmer-Jackson Biochemistry Award \hfill 2012  
-**Goldwater Scholar** \hfill 2011  
+**Goldwater Scholar**: $7500 \hfill 2011  
 CRC Award to the Best Overall Student in Introductory Chemistry \hfill 2009  
 Geneseo Dean’s List \hfill 7 semesters
 
