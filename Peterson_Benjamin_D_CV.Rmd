@@ -11,7 +11,7 @@ fontawesome: yes
 fontfamily: mathpazo
 fontsize: 11pt
 geometry: margin=1in
-jobtitle: Postdoctoral Scholar, University of California - Davis, Poulin Lab
+jobtitle: Postdoctoral Scholar, University of California - Davis
 linkcolor: blue
 email: bdpeterson@ucdavis.edu
 phone: +1 410 980-4660
@@ -26,84 +26,101 @@ knitr::opts_chunk$set(echo = TRUE)
 # Education
 
 **University of Wisconsin - Madison** \hfill Madison, WI  
-PhD in Environmental Chemistry and Technology Program  \hfill 2021  
+Ph.D. in Environmental Chemistry and Technology Program  \hfill August 2021  
 Department of Civil and Environmental Engineering
 
 
 **State University of New York at Geneseo** \hfill Geneseo, NY  
-Bachelor of Science, *summa cum laude* Biochemistry \hfill 2012  
+Bachelor of Science, *summa cum laude* Biochemistry \hfill May 2012  
 Honors Minor (Edgar Fellows Honors Program)
 
+-----
 
 # Employment and Research Experience
 
-**Postdoctoral Scholar** \hfill June 2022-current  
-*Poulin Lab – Department of Environmental Toxicology*  
+**Postdoctoral Scholar** \hfill June 2022 - current  
+*Department of Environmental Toxicology* \hfill PI: Dr. Brett Poulin  
 
-- Research focus: Leveraging microbial communities to understand methylmercury production in the environment
-- Adopt microbial next-generation ecophysiological methods for use with research projects in Alaskan permafrost, Florida Everglades, drinking water reservoirs in California, and mine-impacted lakes in Upper Michigan.
+- Research focus: Leveraging microbial communities to understand methylmercury production in the environment.
+- Adapt microbial next-generation ecophysiological methods for use with research projects in Alaskan permafrost, Florida Everglades, drinking water reservoirs in California, and mine-impacted lakes in Upper Michigan.
 - Conduct field sampling efforts in diverse ecosystems, including the Alaskan Arctic and the Florida Everglades.
 - Develop and conduct experiments in the field and laboratory.
 - Oversee, manage, and review data processing workflows for water chemistry analyses in lab. Assist in database development.
-- Mentor graduate and undergraduate students and assist them with individual research efforts.
-- Build and maintain mercury analytical equipment. Train graduate and undergraduate students on mercury analytical methods. Build and maintain other laboratory equipment.
+- Mentor graduate and undergraduate students and assist them with research efforts.
+- Build and maintain mercury analytical equipment. Train graduate and undergraduate students on mercury analytical methods. Build and maintain other laboratory infrastructure.
 
 
 **Postdoctoral Research Assistant** \hfill August 2021 - May 2022  
-*McMahon Lab – Department of Bacteriology*  
+*Department of Bacteriology* \hfill PI: Dr. Katherine McMahon  
 
-- Research focus: Microbial links between sulfate reduction and methylmercury production in a eutrophic freshwater lake
-- Conducted field-based experiments 
-- Paired meta-omics (DNA/RNA sequencing) techniques with mercury methylation assays to understand link between microbial sulfate reduction and methylmercury production
-- Developed interdisciplinary approach to characterizing the impact of sulfate-reduction activity on overall microbial community metabolic activity
-- Mentored first-year graduate student to continue studies developed during my PhD work.
+- Research focus: Microbial links between sulfate reduction and methylmercury production in a eutrophic freshwater lake.
+- Paired meta-omics (DNA/RNA sequencing) techniques with *in situ* mercury methylation assays to understand link between sulfate reduction and mercury methylation.
+- Developed interdisciplinary approach to characterizing the impact of sulfate-reduction activity on overall microbial community metabolic activity.
+- Mentored first-year graduate student to continue studies developed during my Ph.D. work.
 
-**Graduate Research Assistant** \hfill 2015-2021  
-*McMahon Lab – Departments of Bacteriology and Civil & Environmental Engineering*  
+**Graduate Research Assistant** \hfill September 2015 - August 2021  
+*Departments of Bacteriology and Civil & Environmental Engineering* \hfill PI: Dr. Katherine McMahon  
 Thesis: Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 
-- Dissertation project combined meta-omics techniques with functional assays and biogeochemical measurements to understand how microbes link biogeochemical cycling to the production of toxic methylmercury in freshwater ecosystems
-- Served as microbial ecology specialist on two large-scale U.S. Geology Survey projects studying mercury cycling in impacted sites (Hells Canyon Reservoir in Idaho and the Florida Everglades)
-- Collaborated with USGS Mercury Research Laboratory in Middleton, WI
-- Maintained the North Temperate Lakes Microbial Observatory time series
+- Dissertation project combined metagenomic sequencing with functional assays and biogeochemical measurements to understand how microbes link biogeochemical cycles to the production of toxic methylmercury in freshwater ecosystems.
+- Served as microbial ecology specialist on two large-scale U.S. Geology Survey projects studying mercury cycling in impacted sites (Hells Canyon Reservoir in Idaho and the Florida Everglades).
+- Collaborated with USGS Mercury Research Laboratory in Middleton, WI.
+- Maintained the North Temperate Lakes Microbial Observatory time series.
 
 **Animal Biologist** (Contracter with Kelly's Government Services) \hfill 2014-2015  
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
-Impacts of running on initial integration of adult-born hippocampal neurons
+Impacts of running on initial integration of adult-born hippocampal neurons.
 
 **Postbaccalaureate IRTA Research Fellow** \hfill 2012-2014  
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
-Tracing impacts of exercise on neuronal integration of adult-born hippocampal neurons
+Tracing impacts of exercise on neuronal integration of adult-born hippocampal neurons.
 
 **Undergraduate Research Assistant** \hfill 2009-2012  
 *State University of New York at Geneseo: Biology Department* \hfill PI: Dr. George Briggs  
-Characterization of a Novel Specifier Protein in the Glucosinolate-Myrosinase Pathway in Brassica rapa
+Characterization of a Novel Specifier Protein in the Glucosinolate-Myrosinase Pathway in *Brassica rapa*.
 
 **Summer Undergraduate Research Assistant** \hfill Summer 2011  
 *University of Buffalo: Department of Biological Sciences* \hfill PI: Dr. Denise Ferkey  
-Impact of G-protein coupled signaling receptors on chemosensation of quinine in C. elegans
+Impact of G-protein coupled signaling receptors on chemosensation of quinine in *Caenorhabditis elegans*.
 
 
+---
 
-# Grants and Funding
+# Major Grants and Funding
 
-DOE Joint Genome Institute New Investigator Community Science Project. \hfill 2023  
-*Influence of labile permafrost dissolved organic matter on mercury-methylating organisms*. \hfill PI: Peterson
+**DOE Joint Genome Institute New Investigator Community Science Project** \hfill 2023-current 
+*Influence of labile permafrost dissolved organic matter on mercury-methylating organisms*  
+Role: Principle Investigator  
 
-Roland L. Girolami Fellowship Award - UW-Madison Dept. of Bacteriology \hfill 2020  
+**Roland L. Girolami Fellowship Award - UW-Madison Dept. of Bacteriology** \hfill 2020-2021  
+Funding covered 1 year of graduate stipend and $2000 for research expenses.  
 
-National Science Foundation Graduate Research Fellowship Program \hfill 2016-2021  
+**National Science Foundation Standard Grant - CBET** \hfill 2020-2023  
+*Unrecognized microbial sources of methyl mercury in freshwater lakes*  
+Role: Key Personnel, wrote first draft, co-editing with PI McMahon  
+Funded amount: $329,608
 
+**NIWR/USGS National Competitive Grant Program** \hfill 2019-2022  
+*Microbial drivers of mercury methylation in freshwater eutrophic systems*  
+Role: Key Personnel, wrote first draft, co-editing with PI McMahon  
+Funded amount: $221,160  
 
+**National Science Foundation Graduate Research Fellowship Program** \hfill 2016-2021  
 
-# Peer-reviewed publications
+---
+
+# Publications
 
 \* indicates co-first authorship  
-\*\* indicates undergraduate student I mentored
+\*\* indicates undergraduate student mentee
+
+## Peer-reviewed
 
 1. **Peterson, B.D.**,  Poulin, B.A., Krabbenhoft, D.K., Tate, M.T., Baldwin, A.K., Naymik, J., Gastelecutto, N., McMahon, K.D. (2023). “Metabolically diverse microorganisms mediate methylmercury formation under nitrate-reducing conditions in a dynamic hydroelectric reservoir.” *The ISME Journal*. https://doi.org/10.1038/s41396-023-01482-1
 
 1. **Peterson, B.D.**, Krabbenhoft, D.K., McMahon, K.D., Ogorek, J.M., Tate, M.T., Orem, W.H., Poulin, B.A., (2023). “Environmental formation of methylmercury is controlled by synergy of inorganic mercury bioavailability and microbial mercury‐methylation capacity.” *Environmental Microbiology*, 25(8) 1409-1423. https://doi.org/10.1111/1462-2920.16364.
+
+1. Vivar, C., **Peterson, B.D.**, Pinto, A., Janke, E., and van Praag, H. (2023) “Running throughout middle-age keps old adult-born neurons wired.” *eNeuro* 10(5) ENEURO.0084-23.2023. https://doi.org/10.1523/ENEURO.0084-23.2023.
 
 1. Capo, E., **Peterson, B.D.**, Kim, M., Jones, D.S., Acinas, S.G., Amyot, M., Bertilsson, S., et al. “A Consensus Protocol for the Recovery of Mercury Methylation Genes from Metagenomes.” *Molecular Ecology Resources* 23(1), 190–204. https://doi.org/10.1111/1755-0998.13687.
 
@@ -121,14 +138,101 @@ National Science Foundation Graduate Research Fellowship Program \hfill 2016-202
 
 1. Vivar, C., **Peterson, B.D.**, van Praag, H., 2016. "Running rewires the neuronal network of adult-born dentate granule cells." *NeuroImage* 131, 29–41. https://doi.org/10.1016/j.neuroimage.2015.11.031
 
+## Resources
+
+1. Hg-cycling Microorganisms in Aquatic and Terrestrial Ecosystems (Hg-MATE) Database: Caitlin Gionfriddo, Eric Capo, **Benjamin D. Peterson**, Heyu Lin, Daniel Jones, Andrea G Bravo, Stefan Bertilsson, John Moreau, Katherine McMahon, Dwayne Elias, Cynthia Gilmour. Version 1. Posted January 29th, 2021
+
+## Pre-prints
+
+1. Tran, P.Q., Bachand, S.C., **Peterson, B.D.**, He, S., McMahon, K.D., Anantharaman, K. "Viral impacts on microbial activity and biogeochemical cycling in a seasonally anoxic freshwater lake." bioRxiv, posted April 19, 2023. https://doi.org/10.1101/2023.04.19.537559
+
+1. White, A.M., Gonzalez Vazquez, A., McDaniel, E.A., **Peterson, B.D.**, Koch, P.L., Remucal, C.K., McMahon, K.D. "Expanded diversity of tfdA harboring bacteria across the natural and built environment." bioRxiv, posted September 30, 2022. https://doi.org/10.1101/2022.09.28.509959
+
+1. \*\*Marick, R.A., **Peterson, B.D.**, McMahon, K.D. "Stratification in microbial communities with depth and redox status in a eutrophic lake across two years" bioRxiv, posted October 16, 2021. https://doi.org/10.1101/2021.10.15.464574
+
+---
+
+# Teaching and Mentoring
+
+**Course contributor**
+
+- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023
+  - Developed Learning Assessments using Community Edition of The Geochemist Workbench
+  - Developed and conducted modules on mercury cycling, microbiology of acid mine drainage, emerging issues in toxicology, and microbial methods.
+- Volunteer Teaching Assistant: Environmental Microbiology \hfill Spring 2021
+  - Conducted previously designed modules.
+  - Assisted with NSF-style proposal and review board final project
+- Volunteer Teaching Assistant: Environmental Microbiology \hfill Spring 2019
+  - Designed and conducted modules on mercury-methylating microbes and microbiology of freshwater lakes
+  - Assisted with design and execution of final project centered on writing NSF-style proposal and review board
 
 
+**Omic's Study Group lead**: \hfill Fall 2019
 
-# Oral presentations
+- Metagenomic Assembly study group lead
+- Phylogenetic Analysis and Tree-Thinking study group lead
 
-## Contributed talks
+**Undergraduate Mentor in McMahon Lab** \hfill 2015-2020
 
-1. Microbial and Biogeochemical Controls on Mercury Methylation in the Everglades.**Greater Everglades Ecosystem Restoration Conference**. Coral Spring, FL, United States. *April 2023*
+- **Anna Schwendinger** - Assisting with routine mercury sampling. *Fall 2019 - Spring 2020*
+- **Robert Marick** - Spatial and temporal dynamics of microbial communities along strong redox gradients in Lake Mendota. Preprint posted on bioRxiv. *Summer 2018 - Spring 2020*
+- **Anna Grace Schmidt** - Zooplankton-associated microbiome in Lake Mendota. Lead undergrad for Microbial Observatory sampling. *Summer 2017 - Spring 2020*
+    - UW–Madison College of Agricultural and Life Sciences Research Award \hfill 2018
+    - ASM-Undergraduate Research Fellowship \hfill 2018
+    - UW-Madison Sophomore Research Fellowship Award \hfill 2018
+- **Diana Mendez** - Impact of zebra mussel feeding on planktonic microbial community *Summer, fall 2017*
+- **Ariel Sorg** - Metagenomic characterization of methylotrophic freshwater Betaproteobacteria in Wisconsin, USA. *Summer 2017*
+- **Mykala Sobieck** - Assisted with routine mercury sampling *Summer, fall 2016*
+- **North Temperate Lakes Microbial Observatory Team** - Led team of 2-4 undergraduates per year in maintaining 20+ year time series. *2017-2019*
+
+**Organic Chemistry Tutor and Grader**: Chemistry Department, SUNY-Geneseo \hfill 2010-2012
+
+- Held office hours and set up private tutoring lessons
+- Helped set up curriculum and provided feedback on class progress
+
+---
+
+# Service
+
+**Mersorcium**: Organizing Board and Founding Member \hfill 2022-current  
+- Co-lead Seminar Committee, hosts monthly virtual seminar and workshops during semester  
+**Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment.  
+**Water at UW Graduate Student Representative** \hfill 2018-2019  
+**SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
+    - Organized 1-day science communication workshop  
+**O.N. Allan Soil and Environmental Microbiology Small Grants Review Panelist** \hfill 2018  
+**Postbac IRTA Representative**: National Institute on Aging \hfill 2013-2015  
+**Geneseo Presidential Scholar**: SUNY-Geneseo \hfill 2011-2012  
+
+---
+
+# Other Grants, Scholarships, Awards, and Honors  
+
+**NorCal SETAC Distinguished Early Career Scientist Award** \hfill 2023  
+Becker Travel Award: $200-250 \hfill 2016, 2018, 2020  
+Student Research Travel Grants - Conference: $1500 \hfill 2018  
+Anna Grant Birge Memorial Scholarship: $1942 \hfill 2018  
+Anna Grant Birge Memorial Scholarship: $1917 \hfill 2017  
+Anna Grant Birge Memorial Scholarship: $2000 \hfill 2016  
+Phi Beta Kappa \hfill 2012  
+Ulmer-Jackson Biochemistry Award \hfill 2012  
+**Goldwater Scholar** \hfill 2011  
+CRC Award to the Best Overall Student in Introductory Chemistry \hfill 2009  
+Geneseo Dean’s List \hfill 7 semesters
+
+---
+
+# Presentations
+
+## Contributed oral presentations
+
+1. Leveraging microbial communities to understand biogeochemical drivers of mercury methylation. **NorCal SETAC's 31st Annual Meeting: Invited talk**. Sacramento, CA, United States. *September 2023*
+
+1. Linking microbial ecophysiology to environmental mercury methylation. **Applied and Environmental Microbiology Gordon Research Seminar**. South Hadley, MA, United States. *July 2023*
+
+1. BONCAT applications for environmental biogeochemistry. **UC-Davis Environmental Biogeochemistry Symposium**. Davis, CA, United States. *July 2023*
+
+1. Microbial and Biogeochemical Controls on Mercury Methylation in the Everglades. **Greater Everglades Ecosystem Restoration Conference**. Coral Spring, FL, United States. *April 2023*
 
 1. Inorganic mercury bioavailability and microbial methylation capacity constraints on *in situ* mercury methylation. **International Conference on Mercury as a Global Pollutant**. Virtual conference. *July 2022*
 
@@ -142,10 +246,10 @@ National Science Foundation Graduate Research Fellowship Program \hfill 2016-202
 
 1. Novel hgcA+ organisms dominate mercury-methylating community in water column of sulfate-enriched lake. **International Conference on Mercury as a Global Pollutant**. Krakow, Poland. *September 2019*
 
-1. Mercury-methylating organisms in Lake Mendota. **American Water Resources Association Wisconsin Section Annual Meeting**. Delavan, WI. *March 2019*
+1. Mercury-methylating organisms in Lake Mendota. **American Water Resources Association Wisconsin Section Annual Meeting**. Delavan, WI, United States. *March 2019*
 
 
-## Internal Seminars
+## Internal seminars
 
 1. Leveraging microbial ecology to understand the environmental cycling of mercury. **Department of Environmental Toxicology Seminar**, University of California - Davis. *June 1st, 2023*
 
@@ -166,7 +270,9 @@ National Science Foundation Graduate Research Fellowship Program \hfill 2016-202
 1. Meta-omics, microbes, and freshwater biogeochemistry! Oh My! **Environmental Chemistry and Technology Seminar**, University of Wisconsin - Madison. *April 2017*
 
 
-# Poster Presentations
+## Poster presentations
+
+1. From a black box to a window: Leveraging microbes to understand environmental mercury cycling. **Applied and Environmental Microbiology Gordon Research Conference**. South Hadley, MA. *July 2023*
 
 1. Distribution of mercury-methylating microbes along spatial and temporal redox gradients in a freshwater lake. **International Society for Microbial Ecology Conference**. Leipzig, Germany. *August 2018*
 
@@ -178,66 +284,7 @@ National Science Foundation Graduate Research Fellowship Program \hfill 2016-202
 
 1. Vertical distribution of microbial communities during late stratification in a eutrophic, dimictic lake. **International Society for Microbial Ecology Conference**. Montreal, Canada *September 2016*
 
-
-# Teaching and Mentoring
-
-**Course contributor**
-
-- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023
-- Volunteer Teaching Assistant: Environmental Microbiology: \hfill Spring 2021
-- Volunteer Teaching Assistant: Environmental Microbiology: \hfill Spring 2019
-
-
-**Omic's Study Group lead**: Fall 2019
-
-- Metagenomic Assembly study group lead
-- Phylogenetic Analysis and Tree-Thinking study group lead
-
-**Undergraduate Mentor in McMahon Lab** \hfill 2015-present
-
-- **Anna Schwendinger** - Assisting with routine mercury sampling. *Fa. 2019-Sp. 2020*
-- **Robert Marick** - Spatial and temporal dynamics of microbial communities along strong redox gradients in Lake Mendota. Manuscript in prep. *Su. 2018-Sp. 2020*
-- **Anna Grace Schmidt** - Zooplankton-associated microbiome in Lake Mendota. Lead undergrad for Microbial Observatory sampling. Manuscript in prep. *Su. 2017-Sp. 2020*
-    - UW–Madison College of Agricultural and Life Sciences Research Award \hfill 2018
-    - ASM-Undergraduate Research Fellowship \hfill 2018
-    - UW-Madison Sophomore Research Fellowship Award \hfill 2018
-- **Diana Mendez** - Impact of zebra mussel feeding on planktonic microbial community *Su-Fa 2017*
-- **Ariel Sorg** - Metagenomic characterization of methylotrophic freshwater Betaproteobacteria in Wisconsin, USA. *Su. 2017*
-- **Mykala Sobieck** - Assisted with routine mercury sampling program *Su.-Fa. 2016*
-- **North Temperate Lakes Microbial Observatory Team** - Led team of 2-4 undergraduates per year in maintaining 20+ year time series. *Su. 2017-current*
-
-**Organic Chemistry Tutor and Grader**: Chemistry Department, SUNY-Geneseo \hfill 2010-2012
-
-- Held office hours and set up private tutoring lessons
-- Helped set up curriculum and provided feedback on class progress
-
-
-# Service
-
-**Mersorcium**: Organizing Board and Founding Member \hfill 2022-current
-**Ad hoc Journal Reviewer**: The ISME Journal (1), Environmental Science and Technology (6), Environmental Science and Pollution Research (1), Frontiers in Microbiology (1), Chemosphere (1), Environmental Research Letters (1), FACETS (1), Science of the Total Environment (1).  
-**Water at UW Graduate Student Representative** \hfill 2018-2019  
-**SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
-    - Organized 1-day science communication workshop  
-**O.N. Allan Soil and Environmental Microbiology Small Grants Review Panelist** \hfill 2018  
-**Postbac IRTA Representative**: National Institute on Aging \hfill 2013-2015  
-**Geneseo Presidential Scholar**: SUNY-Geneseo \hfill 2011-2012  
-
-
-
-# Awards and Honors
-
-Student Research Travel Grants - Conference: $1500 \hfill 2018  
-Anna Grant Birge Memorial Scholarship: $1942 \hfill 2018  
-Anna Grant Birge Memorial Scholarship: $1917 \hfill 2017  
-Anna Grant Birge Memorial Scholarship: $2000 \hfill 2016  
-Becker Travel Award: $200-250 \hfill 2016, 2018, 2020  
-Phi Beta Kappa \hfill 2012  
-Ulmer-Jackson Biochemistry Award \hfill 2012  
-**Goldwater Scholar** \hfill 2011  
-CRC Award to the Best Overall Student in Introductory Chemistry \hfill 2009  
-Geneseo Dean’s List \hfill 7 semesters
-
+---
 
 # Professional Development
 
@@ -248,8 +295,10 @@ Data Carpentry Workshop \hfill Fall 2016
 DELTA Research Mentorship Training  \hfill Summer 2016  
 EDAMAME bioinformatics workshop \hfill Summer 2016  
 
+---
 
-# Society Memberships
+# Society Memberships and Other Affiliations
 
-Association for the Sciences of Limnology and Oceanography \hfill 2020-current  
-International Society of Microbial Ecology \hfill 2018  
+Berkeley Lab Affiliate at Lawrence Berkeley National Laboratory \hfill 2023-current
+Association for the Sciences of Limnology and Oceanography \hfill 2020-2021, 2023-current  
+International Society of Microbial Ecology \hfill 2018, 2023-current  
