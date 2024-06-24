@@ -129,7 +129,7 @@ Funded amount: $221,160
 
 **Course contributor**
 
-- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023, 2024
+- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023
   - Developed Learning Assessments using Community Edition of The Geochemist Workbench
   - Developed and conducted modules on mercury cycling, microbiology of acid mine drainage, emerging issues in toxicology, and microbial methods.
 - Volunteer Teaching Assistant: Environmental Microbiology \hfill Spring 2021
@@ -167,7 +167,7 @@ Funded amount: $221,160
 
 # Service
 
-**Association for the Sciences of Limnology and Oceanography Summer Conference**: Special Session Co-Chair \hfill 2024
+**ASLO Summer Conference**: Special Session Co-Chair \hfill 2024
 - Lead chair of "Mercury Biogeochemistry in a Changing World"  
 **International Conference on Mercury as a Global Pollutant**: Special Session Co-Chair \hfill 2022
 - Co-chair of "Meta-omic and geochemical approaches to linking microbial activity to biogeochemical mercury cycling"  
