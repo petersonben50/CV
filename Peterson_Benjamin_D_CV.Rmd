@@ -13,11 +13,11 @@ fontsize: 11pt
 geometry: margin=1in
 jobtitle: Postdoctoral Scholar, University of California - Davis
 linkcolor: blue
-email: bdpeterson@ucdavis.edu
+email: petersob@uwm.edu
 phone: +1 410 980-4660
 address: 450 Bioletti Way · 4336 Meyer Hall · Davis, CA 95616
 web: benjamindavidpeterson.com
-urlcolor: blue
+urlcolor: black
 ---
 
 ```{r setup, include=FALSE}
@@ -129,7 +129,7 @@ Funded amount: $221,160
 
 **Course contributor**
 
-- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023
+- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023, 2024
   - Developed Learning Assessments using Community Edition of The Geochemist Workbench
   - Developed and conducted modules on mercury cycling, microbiology of acid mine drainage, emerging issues in toxicology, and microbial methods.
 - Volunteer Teaching Assistant: Environmental Microbiology \hfill Spring 2021
@@ -167,10 +167,12 @@ Funded amount: $221,160
 
 # Service
 
+**Association for the Sciences of Limnology and Oceanography Summer Conference**: Special Session Co-Chair \hfill 2024
+- Lead chair of "Mercury Biogeochemistry in a Changing World"  
 **International Conference on Mercury as a Global Pollutant**: Special Session Co-Chair \hfill 2022
 - Co-chair of "Meta-omic and geochemical approaches to linking microbial activity to biogeochemical mercury cycling"  
-**Mersorcium**: Organizing Board and Founding Member \hfill 2022-current  
-- Co-lead Seminar Committee, hosts monthly virtual seminar and workshops during semester  
+**Mersorcium**: Organizing Board and Founding Member \hfill 2022-2024  
+- Co-lead Seminar Committee, hosted monthly virtual seminar and workshops during semester  
 **Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment, Geosciences.  
 **Water at UW Graduate Student Representative** \hfill 2018-2019  
 **SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
@@ -201,13 +203,17 @@ Geneseo Dean’s List \hfill 7 semesters
 
 ## Contributed oral presentations
 
+1. Unraveling the complex role of sulfate reduction in environmental methylmercury formation. **Association for the Sciences of Limnology and Oceanography Summer Conference**. Madison, WI, United States. *June 2024*
+
+1. Metabolically diverse microorganisms mediate methylmercury formation under nitrate-reducing conditions in a dynamic hydroelectric reservoir. **Hells Canyon Complex TMDL Advisory Committee Meeting**. Virtual meeting. *May 2024*
+
 1. Leveraging microbial communities to understand biogeochemical drivers of mercury methylation. **NorCal SETAC's 31st Annual Meeting: Invited talk**. Sacramento, CA, United States. *September 2023*
 
 1. Linking microbial ecophysiology to environmental mercury methylation. **Applied and Environmental Microbiology Gordon Research Seminar**. South Hadley, MA, United States. *July 2023*
 
 1. BONCAT applications for environmental biogeochemistry. **UC-Davis Environmental Biogeochemistry Symposium**. Davis, CA, United States. *July 2023*
 
-1. Microbial and Biogeochemical Controls on Mercury Methylation in the Everglades. **Greater Everglades Ecosystem Restoration Conference**. Coral Spring, FL, United States. *April 2023*
+1. Microbial and Biogeochemical Controls on Mercury Methylation in the Everglades. **Greater Everglades Ecosystem Restoration Conference**. Coral Springs, FL, United States. *April 2023*
 
 1. Inorganic mercury bioavailability and microbial methylation capacity constraints on *in situ* mercury methylation. **International Conference on Mercury as a Global Pollutant**. Virtual conference. *July 2022*
 
