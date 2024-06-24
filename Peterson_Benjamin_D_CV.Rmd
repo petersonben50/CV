@@ -42,47 +42,19 @@ Honors Minor (Edgar Fellows Honors Program)
 **Postdoctoral Scholar** \hfill June 2022 - current  
 *Department of Environmental Toxicology* \hfill PI: Dr. Brett Poulin  
 
-- Research focus: Leveraging microbial communities to understand methylmercury production in the environment.
-- Adapt microbial next-generation ecophysiological methods for use with research projects in Alaskan permafrost, Florida Everglades, drinking water reservoirs in California, and mine-impacted lakes in Upper Michigan.
-- Conduct field sampling efforts in diverse ecosystems, including the Alaskan Arctic and the Florida Everglades.
-- Develop and conduct experiments in the field and laboratory.
-- Oversee, manage, and review data processing workflows for water chemistry analyses in lab. Assist in database development.
-- Mentor graduate and undergraduate students and assist them with research efforts.
-- Build and maintain mercury analytical equipment. Train graduate and undergraduate students on mercury analytical methods. Build and maintain other laboratory infrastructure.
-
-
 **Postdoctoral Research Assistant** \hfill August 2021 - May 2022  
 *Department of Bacteriology* \hfill PI: Dr. Katherine McMahon  
-
-- Research focus: Microbial links between sulfate reduction and methylmercury production in a eutrophic freshwater lake.
-- Paired meta-omics (DNA/RNA sequencing) techniques with *in situ* mercury methylation assays to understand link between sulfate reduction and mercury methylation.
-- Developed interdisciplinary approach to characterizing the impact of sulfate-reduction activity on overall microbial community metabolic activity.
-- Mentored first-year graduate student to continue studies developed during my Ph.D. work.
 
 **Graduate Research Assistant** \hfill September 2015 - August 2021  
 *Departments of Bacteriology and Civil & Environmental Engineering* \hfill PI: Dr. Katherine McMahon  
 Thesis: Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 
-- Dissertation project combined metagenomic sequencing with functional assays and biogeochemical measurements to understand how microbes link biogeochemical cycles to the production of toxic methylmercury in freshwater ecosystems.
-- Served as microbial ecology specialist on two large-scale U.S. Geology Survey projects studying mercury cycling in impacted sites (Hells Canyon Reservoir in Idaho and the Florida Everglades).
-- Collaborated with USGS Mercury Research Laboratory in Middleton, WI.
-- Maintained the North Temperate Lakes Microbial Observatory time series.
-
-**Animal Biologist** (Contracter with Kelly's Government Services) \hfill 2014-2015  
+**Research Fellow, Animal Biologist Contractor** \hfill 2012-2015  
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
-Impacts of running on initial integration of adult-born hippocampal neurons.
 
-**Postbaccalaureate IRTA Research Fellow** \hfill 2012-2014  
-*National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
-Tracing impacts of exercise on neuronal integration of adult-born hippocampal neurons.
+**Undergraduate Research Assistant**: SUNY-Geneseo \hfill 2009-2012  
 
-**Undergraduate Research Assistant** \hfill 2009-2012  
-*State University of New York at Geneseo: Biology Department* \hfill PI: Dr. George Briggs  
-Characterization of a Novel Specifier Protein in the Glucosinolate-Myrosinase Pathway in *Brassica rapa*.
-
-**Summer Undergraduate Research Assistant** \hfill Summer 2011  
-*University of Buffalo: Department of Biological Sciences* \hfill PI: Dr. Denise Ferkey  
-Impact of G-protein coupled signaling receptors on chemosensation of quinine in *Caenorhabditis elegans*.
+**Summer Undergraduate Research Assistant**: University of Buffalo \hfill Summer 2011  
 
 
 ---
@@ -94,7 +66,7 @@ Impact of G-protein coupled signaling receptors on chemosensation of quinine in 
 Role: Principle Investigator  
 
 **Roland L. Girolami Fellowship Award - UW-Madison Dept. of Bacteriology** \hfill 2020-2021  
-Funding covered 1 year of graduate stipend and $2000 for research expenses.  
+Funding covered 1 year of graduate stipend (\$34,000) and $2000 for research expenses.  
 
 **National Science Foundation Standard Grant - CBET** \hfill 2020-2023  
 *Unrecognized microbial sources of methyl mercury in freshwater lakes*  
@@ -195,9 +167,11 @@ Funded amount: $221,160
 
 # Service
 
+**International Conference on Mercury as a Global Pollutant**: Special Session Co-Chair \hfill 2022
+- Co-chair of "Meta-omic and geochemical approaches to linking microbial activity to biogeochemical mercury cycling"  
 **Mersorcium**: Organizing Board and Founding Member \hfill 2022-current  
 - Co-lead Seminar Committee, hosts monthly virtual seminar and workshops during semester  
-**Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment.  
+**Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment, Geosciences.  
 **Water at UW Graduate Student Representative** \hfill 2018-2019  
 **SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
     - Organized 1-day science communication workshop  
