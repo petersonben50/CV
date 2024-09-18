@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **University of Wisconsin - Madison** \hfill Madison, WI  
 Ph.D. in Environmental Chemistry and Technology Program  \hfill August 2021  
 Department of Civil and Environmental Engineering   
-Thesis: *Ecophysiology of mercury-methylating organisms in freshwater ecosystems*   
+Thesis: "Ecophysiology of mercury-methylating organisms in freshwater ecosystems"   
 
 
 **State University of New York at Geneseo** \hfill Geneseo, NY  
@@ -40,24 +40,24 @@ Honors Minor (Edgar Fellows Honors Program)
 
 # Employment and Research Experience
 
-**Postdoctoral Scholar** \hfill August 2024 - current  
-*University of Wisconsin - Milwaukee*   
-*School of Freshwater Science*    
+**Assistant Professor** \hfill August 2024 - current  
+University of Wisconsin - Milwaukee   
+School of Freshwater Science    
 
 **Postdoctoral Scholar** \hfill June 2022 - August 2024  
-*University of California - Davis* \hfill PI: Dr. Brett Poulin  
-*Department of Environmental Toxicology*    
+University of California - Davis \hfill PI: Dr. Brett Poulin  
+Department of Environmental Toxicology    
 
 **Postdoctoral Research Assistant** \hfill August 2021 - May 2022  
-*University of Wisconsin - Madison* \hfill PI: Dr. Katherine McMahon  
-*Department of Bacteriology*
+University of Wisconsin - Madison \hfill PI: Dr. Katherine McMahon  
+Department of Bacteriology
 
 **Graduate Research Assistant** \hfill September 2015 - August 2021  
-*University of Wisconsin - Madison* \hfill PI: Dr. Katherine McMahon  
-*Departments of Bacteriology and Civil & Environmental Engineering*   
+University of Wisconsin - Madison \hfill PI: Dr. Katherine McMahon  
+Departments of Bacteriology and Civil & Environmental Engineering   
 
 **Research Fellow, Animal Biologist Contractor** \hfill 2012-2015  
-*National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
+National Institute on Aging: Neuroplasticity and Behavior Unit \hfill PI: Dr. Henriette van Praag  
 
 **Undergraduate Research Assistant**: SUNY-Geneseo \hfill 2009-2012  
 
