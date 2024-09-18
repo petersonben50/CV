@@ -11,11 +11,11 @@ fontawesome: yes
 fontfamily: mathpazo
 fontsize: 11pt
 geometry: margin=1in
-jobtitle: Postdoctoral Scholar, University of California - Davis
+jobtitle: Assistant Professor, University of Wisconsin - Milwaukee
 linkcolor: blue
 email: petersob@uwm.edu
 phone: +1 410 980-4660
-address: 450 Bioletti Way · 4336 Meyer Hall · Davis, CA 95616
+address: 600 E Greenfield Ave · 3017 GLRF building · Milwaukee, WI 53204
 web: benjamindavidpeterson.com
 urlcolor: black
 ---
@@ -39,14 +39,21 @@ Honors Minor (Edgar Fellows Honors Program)
 
 # Employment and Research Experience
 
-**Postdoctoral Scholar** \hfill June 2022 - current  
-*Department of Environmental Toxicology* \hfill PI: Dr. Brett Poulin  
+**Postdoctoral Scholar** \hfill August 2024 - current  
+*University of Wisconsin - Milwaukee*   
+*School of Freshwater Science*    
+
+**Postdoctoral Scholar** \hfill June 2022 - August 2024  
+*University of California - Davis* \hfill PI: Dr. Brett Poulin  
+*Department of Environmental Toxicology*    
 
 **Postdoctoral Research Assistant** \hfill August 2021 - May 2022  
-*Department of Bacteriology* \hfill PI: Dr. Katherine McMahon  
+*University of Wisconsin - Madison* \hfill PI: Dr. Katherine McMahon  
+*Department of Bacteriology*
 
 **Graduate Research Assistant** \hfill September 2015 - August 2021  
-*Departments of Bacteriology and Civil & Environmental Engineering* \hfill PI: Dr. Katherine McMahon  
+*University of Wisconsin - Madison* \hfill PI: Dr. Katherine McMahon  
+*Departments of Bacteriology and Civil & Environmental Engineering*   
 Thesis: Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 
 **Research Fellow, Animal Biologist Contractor** \hfill 2012-2015  
@@ -88,6 +95,8 @@ Funded amount: $221,160
 \*\* indicates undergraduate student mentee
 
 ## Peer-reviewed
+
+1. Cook, B.A., **Peterson, B.D.**, Ogorek J.M., Janssen, S.E., Poulin, B.A., (2024) "Simulated sea level rise in coastal peat soils stimulates mercury methylation." *ACS Earth and Space Chemistry* **Article ASAP** https://doi.org/10.1021/acsearthspacechem.4c00124 
 
 1. **Peterson, B.D.**,  Poulin, B.A., Krabbenhoft, D.K., Tate, M.T., Baldwin, A.K., Naymik, J., Gastelecutto, N., McMahon, K.D. (2023). “Metabolically diverse microorganisms mediate methylmercury formation under nitrate-reducing conditions in a dynamic hydroelectric reservoir.” *The ISME Journal*. https://doi.org/10.1038/s41396-023-01482-1
 
