@@ -28,7 +28,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **University of Wisconsin - Madison** \hfill Madison, WI  
 Ph.D. in Environmental Chemistry and Technology Program  \hfill August 2021  
-Department of Civil and Environmental Engineering
+Department of Civil and Environmental Engineering   
+Thesis: *Ecophysiology of mercury-methylating organisms in freshwater ecosystems*   
 
 
 **State University of New York at Geneseo** \hfill Geneseo, NY  
@@ -54,7 +55,6 @@ Honors Minor (Edgar Fellows Honors Program)
 **Graduate Research Assistant** \hfill September 2015 - August 2021  
 *University of Wisconsin - Madison* \hfill PI: Dr. Katherine McMahon  
 *Departments of Bacteriology and Civil & Environmental Engineering*   
-Thesis: Ecophysiology of mercury-methylating organisms in freshwater ecosystems
 
 **Research Fellow, Animal Biologist Contractor** \hfill 2012-2015  
 *National Institute on Aging: Neuroplasticity and Behavior Unit* \hfill PI: Dr. Henriette van Praag  
