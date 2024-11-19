@@ -138,20 +138,18 @@ Krause, V. M., Baldwin, A. K., **Peterson, B. D.**, Krabbenhoft, D. P., Janssen,
 
 # Teaching and Mentoring
 
+**Instructor of Record - University of Wisconsin - Milwaukee**
+
+- Field Analysis and Experimentation in Freshwater Sciences \hfill Fall 2024
+
 **Course contributor**
 
-- Volunteer Teaching Assistant: ETOX198: Chemistry and Toxicology of Metals \hfill Spring 2023
-  - Developed Learning Assessments using Community Edition of The Geochemist Workbench
-  - Developed and conducted modules on mercury cycling, microbiology of acid mine drainage, emerging issues in toxicology, and microbial methods.
-- Volunteer Teaching Assistant: Environmental Microbiology \hfill Spring 2021
-  - Conducted previously designed modules.
-  - Assisted with NSF-style proposal and review board final project
-- Volunteer Teaching Assistant: Environmental Microbiology \hfill Spring 2019
-  - Designed and conducted modules on mercury-methylating microbes and microbiology of freshwater lakes
-  - Assisted with design and execution of final project centered on writing NSF-style proposal and review board
+- Teaching Assistant (UC-Davis): Chemistry and Toxicology of Metals \hfill Two quarters
+- Teaching Assistant (UC-Davis): CURE - The Arboretum: A Living Laboratory \hfill One quarter
+- Teaching Assistant (UW-Madison): Environmental Microbiology \hfill Two semesters
 
 
-**Omic's Study Group lead**: \hfill Fall 2019
+**Omic's Study Group lead** UW-Madison: \hfill Fall 2019
 
 - Metagenomic Assembly study group lead
 - Phylogenetic Analysis and Tree-Thinking study group lead
@@ -171,16 +169,14 @@ Krause, V. M., Baldwin, A. K., **Peterson, B. D.**, Krabbenhoft, D. P., Janssen,
 
 **Organic Chemistry Tutor and Grader**: Chemistry Department, SUNY-Geneseo \hfill 2010-2012
 
-- Held office hours and set up private tutoring lessons
-- Helped set up curriculum and provided feedback on class progress
 
 ---
 
 # Service
 
-**ASLO Summer Conference**: Special Session Co-Chair \hfill 2024
+**ASLO Summer Conference**: Special Session Co-Chair \hfill 2024  
 - Lead chair of "Mercury Biogeochemistry in a Changing World"  
-**International Conference on Mercury as a Global Pollutant**: Special Session Co-Chair \hfill 2022
+**International Conference on Mercury as a Global Pollutant**: Special Session Co-Chair \hfill 2022  
 - Co-chair of "Meta-omic and geochemical approaches to linking microbial activity to biogeochemical mercury cycling"  
 **Mersorcium**: Organizing Board and Founding Member \hfill 2022-2024  
 - Co-lead Seminar Committee, hosted monthly virtual seminar and workshops during semester  
@@ -242,6 +238,8 @@ Geneseo Dean’s List \hfill 7 semesters
 
 
 ## Internal seminars
+
+1. Microbial drivers of environmental mercury methylation in Lake Mendota, Wisconsin. **School of Freshwater Sciences Colloquium**, University of Wisconsin - Milwaukee. *November 2024*
 
 1. Leveraging microbial ecology to understand the environmental cycling of mercury. **Department of Environmental Toxicology Seminar**, University of California - Davis. *June 1st, 2023*
 
