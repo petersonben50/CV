@@ -1,9 +1,0 @@
-# File types
-*.log
-*.pdf
-*.docx
-
-# Files
-.Rhistory
-.gitignore
-set_up_info.md
