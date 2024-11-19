@@ -16,7 +16,7 @@ linkcolor: blue
 email: petersob@uwm.edu
 phone: +1 410 980-4660
 address: 600 E Greenfield Ave · 3017 GLRF building · Milwaukee, WI 53204
-web: benjamindavidpeterson.com
+web: petersonlab.org
 urlcolor: black
 ---
 
@@ -96,7 +96,9 @@ Funded amount: $221,160
 
 ## Peer-reviewed
 
-1. Cook, B.A., **Peterson, B.D.**, Ogorek J.M., Janssen, S.E., Poulin, B.A., (2024) "Simulated sea level rise in coastal peat soils stimulates mercury methylation." *ACS Earth and Space Chemistry* **Article ASAP** https://doi.org/10.1021/acsearthspacechem.4c00124 
+Krause, V. M., Baldwin, A. K., **Peterson, B. D.**, Krabbenhoft, D. P., Janssen, S. E., Willacker, J. J., Eagles-Smith, C. A., & Poulin, B. A. (2024). "Riparian methylmercury production increases riverine mercury flux and food web concentrations." *Environmental Science & Technology*, **58**(46), 20490–20501. https://doi.org/10.1021/acs.est.4c08585
+
+1. Cook, B. A., **Peterson, B. D.**, Ogorek, J. M., Janssen, S. E., & Poulin, B. A. (2024). "Simulated sea level rise in coastal peat soils stimulates mercury methylation." *ACS Earth and Space Chemistry*, **8**(9), 1784–1796. https://doi.org/10.1021/acsearthspacechem.4c00124
 
 1. **Peterson, B.D.**,  Poulin, B.A., Krabbenhoft, D.K., Tate, M.T., Baldwin, A.K., Naymik, J., Gastelecutto, N., McMahon, K.D. (2023). “Metabolically diverse microorganisms mediate methylmercury formation under nitrate-reducing conditions in a dynamic hydroelectric reservoir.” *The ISME Journal*. https://doi.org/10.1038/s41396-023-01482-1
 
