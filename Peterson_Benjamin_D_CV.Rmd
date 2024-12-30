@@ -5,7 +5,7 @@ date: "March 3, 2023"
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: /Users/benjaminpeterson/Documents/orderInTheKingdom/CV/svm-latex-cv-modified.tex
+    template: /Users/benjaminpeterson/Documents/CaMBR_Lab_PI/CV/svm-latex-cv-modified.tex
   word_document: default
 fontawesome: yes
 fontfamily: mathpazo
@@ -96,7 +96,7 @@ Funded amount: $221,160
 
 ## Peer-reviewed
 
-Krause, V. M., Baldwin, A. K., **Peterson, B. D.**, Krabbenhoft, D. P., Janssen, S. E., Willacker, J. J., Eagles-Smith, C. A., & Poulin, B. A. (2024). "Riparian methylmercury production increases riverine mercury flux and food web concentrations." *Environmental Science & Technology*, **58**(46), 20490–20501. https://doi.org/10.1021/acs.est.4c08585
+1. Krause, V. M., Baldwin, A. K., **Peterson, B. D.**, Krabbenhoft, D. P., Janssen, S. E., Willacker, J. J., Eagles-Smith, C. A., & Poulin, B. A. (2024). "Riparian methylmercury production increases riverine mercury flux and food web concentrations." *Environmental Science & Technology*, **58**(46), 20490–20501. https://doi.org/10.1021/acs.est.4c08585
 
 1. Cook, B. A., **Peterson, B. D.**, Ogorek, J. M., Janssen, S. E., & Poulin, B. A. (2024). "Simulated sea level rise in coastal peat soils stimulates mercury methylation." *ACS Earth and Space Chemistry*, **8**(9), 1784–1796. https://doi.org/10.1021/acsearthspacechem.4c00124
 
@@ -289,6 +289,6 @@ EDAMAME bioinformatics workshop \hfill Summer 2016
 
 # Society Memberships and Other Affiliations
 
-Berkeley Lab Affiliate at Lawrence Berkeley National Laboratory \hfill 2023-current
+Berkeley Lab Affiliate at Lawrence Berkeley National Laboratory \hfill 2023-current  
 Association for the Sciences of Limnology and Oceanography \hfill 2020-2021, 2023-current  
 International Society of Microbial Ecology \hfill 2018, 2023-current  
