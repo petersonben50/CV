@@ -5,7 +5,7 @@ date: "March 3, 2023"
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: /Users/benjaminpeterson/Documents/CaMBR_Lab_PI/CV/svm-latex-cv-modified.tex
+    template: svm-latex-cv-modified.tex
   word_document: default
 fontawesome: yes
 fontfamily: mathpazo
@@ -96,9 +96,13 @@ Funded amount: $221,160
 
 ## Peer-reviewed
 
-1. Krause, V. M., Baldwin, A. K., **Peterson, B. D.**, Krabbenhoft, D. P., Janssen, S. E., Willacker, J. J., Eagles-Smith, C. A., & Poulin, B. A. (2024). "Riparian methylmercury production increases riverine mercury flux and food web concentrations." *Environmental Science & Technology*, **58**(46), 20490–20501. https://doi.org/10.1021/acs.est.4c08585
+1. Armstrong, G.J., Janssen, S.E., Lepak, R.F., Rosera, T.J., **Peterson, B.D.**, Cushing, S.T., Tate, M.T., Hurley, J.P. (2025) “Seasonal stratification drives bioaccumulation of pelagic mercury sources in eutrophic lakes.” *ACS EST Water*, acsestwater.5c00028. https://doi.org/10.1021/acsestwater.5c00028.
 
-1. Cook, B. A., **Peterson, B. D.**, Ogorek, J. M., Janssen, S. E., & Poulin, B. A. (2024). "Simulated sea level rise in coastal peat soils stimulates mercury methylation." *ACS Earth and Space Chemistry*, **8**(9), 1784–1796. https://doi.org/10.1021/acsearthspacechem.4c00124
+1. **Peterson, B.D.**, Janssen, S.E., Poulin, B.A., Ogorek, J.A., White, A.M., McDaniel, E.A., Marick, R.A, Armstrong, G.J., Scheel, N.D., Tate, M.T., Krabbenhoft, D.P., McMahon, K.D. (2025). “Sulfate reduction drives elevated methylmercury formation in the water column of a eutrophic freshwater lake.” *Environmental Science & Technology*,  **59**(13), 6799−6811. https://doi.org/10.1021/acs.est.4c12759.
+
+1. Krause, V.M., Baldwin, A.K., **Peterson, B.D.**, Krabbenhoft, D.P., Janssen, S.E., Willacker, J.J., Eagles-Smith, C.A., Poulin, B.A. (2024). "Riparian methylmercury production increases riverine mercury flux and food web concentrations." *Environmental Science & Technology*, **58**(46), 20490–20501. https://doi.org/10.1021/acs.est.4c08585
+
+1. Cook, B.A., **Peterson, B.D.**, Ogorek, J.M., Janssen, S.E., Poulin, B.A. (2024). "Simulated sea level rise in coastal peat soils stimulates mercury methylation." *ACS Earth and Space Chemistry*, **8**(9), 1784–1796. https://doi.org/10.1021/acsearthspacechem.4c00124
 
 1. **Peterson, B.D.**,  Poulin, B.A., Krabbenhoft, D.K., Tate, M.T., Baldwin, A.K., Naymik, J., Gastelecutto, N., McMahon, K.D. (2023). “Metabolically diverse microorganisms mediate methylmercury formation under nitrate-reducing conditions in a dynamic hydroelectric reservoir.” *The ISME Journal*, **17**, 1705–1718. https://doi.org/10.1038/s41396-023-01482-1
 
@@ -180,7 +184,7 @@ Funded amount: $221,160
 - Co-chair of "Meta-omic and geochemical approaches to linking microbial activity to biogeochemical mercury cycling"  
 **Mersorcium**: Organizing Board and Founding Member \hfill 2022-2024  
 - Co-lead Seminar Committee, hosted monthly virtual seminar and workshops during semester  
-**Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment, Geosciences.  
+**Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, ACS EST Water, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment, Geosciences.  
 **Water at UW Graduate Student Representative** \hfill 2018-2019  
 **SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
     - Organized 1-day science communication workshop  
@@ -208,13 +212,18 @@ Geneseo Dean’s List \hfill 7 semesters
 
 # Presentations
 
+## Invited presentations
+
+1. Microbial insights into environmental methylmercury formation. **Environmental Engineering Sciences Seminar Series - Northwestern University McCormick School of Engineering**. Evanston, IL, United States. *January 2025*
+
+1. Leveraging microbial communities to understand biogeochemical drivers of mercury methylation. **NorCal SETAC's 31st Annual Meeting**. Sacramento, CA, United States. *September 2023*
+
+
 ## Contributed oral presentations
 
 1. Unraveling the complex role of sulfate reduction in environmental methylmercury formation. **Association for the Sciences of Limnology and Oceanography Summer Conference**. Madison, WI, United States. *June 2024*
 
 1. Metabolically diverse microorganisms mediate methylmercury formation under nitrate-reducing conditions in a dynamic hydroelectric reservoir. **Hells Canyon Complex TMDL Advisory Committee Meeting**. Virtual meeting. *May 2024*
-
-1. Leveraging microbial communities to understand biogeochemical drivers of mercury methylation. **NorCal SETAC's 31st Annual Meeting: Invited talk**. Sacramento, CA, United States. *September 2023*
 
 1. Linking microbial ecophysiology to environmental mercury methylation. **Applied and Environmental Microbiology Gordon Research Seminar**. South Hadley, MA, United States. *July 2023*
 
@@ -292,3 +301,4 @@ EDAMAME bioinformatics workshop \hfill Summer 2016
 Berkeley Lab Affiliate at Lawrence Berkeley National Laboratory \hfill 2023-current  
 Association for the Sciences of Limnology and Oceanography \hfill 2020-2021, 2023-current  
 International Society of Microbial Ecology \hfill 2018, 2023-current  
+International Association for Great Lakes Research \hfill 2025-current  
