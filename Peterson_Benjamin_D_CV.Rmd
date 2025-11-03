@@ -68,6 +68,11 @@ National Institute on Aging: Neuroplasticity and Behavior Unit \hfill PI: Dr. He
 
 # Major Grants and Funding
 
+**Discovery and Innovation Grant - University of Wisconsin - Milwaukee** \hfill 2024-2026  
+*Microbial physiology of mercury methylation*  
+Role: Principal Investigator  
+Funded amount: $49,925  
+
 **DOE Joint Genome Institute New Investigator Community Science Project** \hfill 2023-current 
 *Influence of labile permafrost dissolved organic matter on mercury-methylating organisms*  
 Role: Principle Investigator  
@@ -95,6 +100,8 @@ Funded amount: $221,160
 \*\* indicates undergraduate student mentee
 
 ## Peer-reviewed
+
+1. **Peterson, B.D.**, and Poulin, B.A. “Illuminating the black box: Trace element biogeochemistry from a microbial perspective.” Environmental Science & Technology 59, no. 42 (2025): 22373–85. https://doi.org/10.1021/acs.est.5c06816.
 
 1. Armstrong, G.J., Janssen, S.E., Lepak, R.F., Rosera, T.J., **Peterson, B.D.**, Cushing, S.T., Tate, M.T., Hurley, J.P. (2025) “Seasonal stratification drives bioaccumulation of pelagic mercury sources in eutrophic lakes.” *ACS EST Water*, acsestwater.5c00028. https://doi.org/10.1021/acsestwater.5c00028.
 
@@ -144,7 +151,7 @@ Funded amount: $221,160
 
 **Instructor of Record - University of Wisconsin - Milwaukee**
 
-- Field Analysis and Experimentation in Freshwater Sciences \hfill Fall 2024
+- Field Analysis and Experimentation in Freshwater Sciences \hfill Fall 2024, 2025
 
 **Course contributor**
 
@@ -152,11 +159,9 @@ Funded amount: $221,160
 - Teaching Assistant (UC-Davis): CURE - The Arboretum: A Living Laboratory \hfill One quarter
 - Teaching Assistant (UW-Madison): Environmental Microbiology \hfill Two semesters
 
+**Undergraduate Mentor in Poulin Lab** \hfill 2022-2024
+- **Emily Richter** - Investigating 
 
-**Omic's Study Group lead** UW-Madison: \hfill Fall 2019
-
-- Metagenomic Assembly study group lead
-- Phylogenetic Analysis and Tree-Thinking study group lead
 
 **Undergraduate Mentor in McMahon Lab** \hfill 2015-2020
 
@@ -170,8 +175,6 @@ Funded amount: $221,160
 - **Ariel Sorg** - Metagenomic characterization of methylotrophic freshwater Betaproteobacteria in Wisconsin, USA. *Summer 2017*
 - **Mykala Sobieck** - Assisted with routine mercury sampling *Summer, fall 2016*
 - **North Temperate Lakes Microbial Observatory Team** - Led team of 2-4 undergraduates per year in maintaining 20+ year time series. *2017-2019*
-
-**Organic Chemistry Tutor and Grader**: Chemistry Department, SUNY-Geneseo \hfill 2010-2012
 
 
 ---
