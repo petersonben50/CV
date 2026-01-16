@@ -71,7 +71,7 @@ National Institute on Aging: Neuroplasticity and Behavior Unit \hfill PI: Dr. He
 **Discovery and Innovation Grant - University of Wisconsin - Milwaukee** \hfill 2024-2026  
 *Microbial physiology of mercury methylation*  
 Role: Principal Investigator  
-Funded amount: $49,925  
+Funded amount: $62,064  
 
 **DOE Joint Genome Institute New Investigator Community Science Project** \hfill 2023-current 
 *Influence of labile permafrost dissolved organic matter on mercury-methylating organisms*  
@@ -133,7 +133,9 @@ Funded amount: $221,160
 
 1. Vivar, C., **Peterson, B.D.**, van Praag, H., (2016). "Running rewires the neuronal network of adult-born dentate granule cells." *NeuroImage* 131, 29–41. https://doi.org/10.1016/j.neuroimage.2015.11.031
 
-## Resources
+## Resources and Data Products
+
+1. **Peterson, B.D.**, Janssen, S.E., Tate, M.T., Poulin, B.A., and McMahon, K.D. “Mercury Concentrations and Methylation Rate Potentials in Lake Mendota, Wisconsin, USA: 2020-2021, U.S. Geological Survey Data Release.” 2025. https://doi.org/10.5066/P14TO3BL.
 
 1. Hg-cycling Microorganisms in Aquatic and Terrestrial Ecosystems (Hg-MATE) Database: Caitlin Gionfriddo, Eric Capo, **Benjamin D. Peterson**, Heyu Lin, Daniel Jones, Andrea G Bravo, Stefan Bertilsson, John Moreau, Katherine McMahon, Dwayne Elias, Cynthia Gilmour. Version 1. Posted January 29th, 2021
 
@@ -159,11 +161,23 @@ Funded amount: $221,160
 - Teaching Assistant (UC-Davis): CURE - The Arboretum: A Living Laboratory \hfill One quarter
 - Teaching Assistant (UW-Madison): Environmental Microbiology \hfill Two semesters
 
-**Undergraduate Mentor in Poulin Lab** \hfill 2022-2024
-- **Emily Richter** - Investigating 
+
+**Master's Students** \hfill 2025-present
+
+- **Nicole Price** - Quagga mussel impacts on mercury accumulation in Lake Michigan benthic food webs. *Summer 2025 - present*
 
 
-**Undergraduate Mentor in McMahon Lab** \hfill 2015-2020
+**Undergraduate Mentoring - Peterson Laboratory** \hfill 2025-present
+
+- **Grant Probst** - Microbial physiology of mercury methylating organisms. *Spring 2025 - Winter 2025*
+
+
+**Undergraduate Mentoring - Poulin Laboratory** \hfill 2022-2024
+
+- **Emily Richter** - Influence of increasing temperatures on methylmercury formation in sediments across ecotypes.
+
+
+**Undergraduate Mentoring - McMahon Laboratory** \hfill 2015-2020
 
 - **Anna Schwendinger** - Assisting with routine mercury sampling. *Fall 2019 - Spring 2020*
 - **Robert Marick** - Spatial and temporal dynamics of microbial communities along strong redox gradients in Lake Mendota. Preprint posted on bioRxiv. *Summer 2018 - Spring 2020*
@@ -181,13 +195,17 @@ Funded amount: $221,160
 
 # Service
 
-**ASLO Summer Conference**: Special Session Co-Chair \hfill 2024  
+**IAGLR Annual Conference**: Session Co-Chair \hfill June 2025  
+- Lead chair: "Contaminant Cycling in the Great Lakes: From Biogeochemistry to Bioaccumulation"  
+**External Examiner: Ph.D. Dissertation Defense** \hfill May 2025
+- Zohra Zahir, University of Regina  
+**ASLO Summer Conference**: Special Session Co-Chair \hfill June 2024  
 - Lead chair of "Mercury Biogeochemistry in a Changing World"  
 **International Conference on Mercury as a Global Pollutant**: Special Session Co-Chair \hfill 2022  
 - Co-chair of "Meta-omic and geochemical approaches to linking microbial activity to biogeochemical mercury cycling"  
 **Mersorcium**: Organizing Board and Founding Member \hfill 2022-2024  
 - Co-lead Seminar Committee, hosted monthly virtual seminar and workshops during semester  
-**Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, ACS EST Water, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment, Geosciences.  
+**Ad hoc Journal Reviewer**: The ISME Journal, Environmental Science and Technology, Environmental Science and Technology Letters,Environmental Science and Technology Water, ACS EST Water, Environmental Science and Pollution Research, Frontiers in Microbiology, Chemosphere, Environmental Research Letters, FACETS, Science of the Total Environment, Geosciences, JGR Biogeosciences, Applied and Environmental Microbiology.  
 **Water at UW Graduate Student Representative** \hfill 2018-2019  
 **SETAC Young Environmental Scientist meeting**: Organizer \hfill 2018  
     - Organized 1-day science communication workshop  
@@ -223,6 +241,8 @@ Geneseo Dean’s List \hfill 7 semesters
 
 
 ## Contributed oral presentations
+
+1. Mercury methylating microbes in the Great Lakes. **International Association for Great Lakes Research Annual Conference**. Milwaukee, WI, United States. *June 2025*
 
 1. Unraveling the complex role of sulfate reduction in environmental methylmercury formation. **Association for the Sciences of Limnology and Oceanography Summer Conference**. Madison, WI, United States. *June 2024*
 
